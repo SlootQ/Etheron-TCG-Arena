@@ -15,7 +15,7 @@
   "customHelp": "(1) Au début de la partie, chaque joueur place 1 Champion face cachée sur chaque zone Champion (3 au total) et 3 cartes Éther de base face visible dans la zone Éther.\n(2) Chaque joueur pioche manuellement 4 cartes pour sa main de départ, puis peut effectuer 1 mulligan en remettant n'importe quelles cartes de sa main dans le deck, mélangez, puis repiochez le même nombre.\n(3) Toutes les cartes (sauf Champions) peuvent être jouées dans la zone Éther. Les Éthers de base sont face visible, les autres cartes jouées en Éther sont face cachée.\n(4) Les Sorts se jouent depuis la main vers la zone Stack (Pile), puis vont au Cimetière une fois résolus.\n(5) Utilisez les zones Invocations et Champions pour organiser clairement vos unités.",
   "cardRotation": "90",
   "cards": {
-    "dataUrl": "https://raw.githubusercontent.com/SlootQ/Etheron-TCG-Arena/refs/heads/main/Etheron-CardList.json",
+    "dataUrl": "https://github.com/SlootQ/Etheron-TCG-Arena/blob/main/Etheron-CardList.json",
     "cardBack": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-BACK-MAIN-1.webp",
     "cardBackColor": "#161E42",
     "extraCardBacks": {
