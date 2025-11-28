@@ -5,10 +5,10 @@
     "backgrounds": [
       "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/TCG%20ARENA/PLAYMATE/PM_yldan-vs-neeska-c.png",
       "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/TCG%20ARENA/PLAYMATE/PM_neeska-vs-elio-c.png",
-"https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/TCG%20ARENA/PLAYMATE/PM_Igrathar-vs-heckar-c.png",
-"https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/TCG%20ARENA/PLAYMATE/PM_yldan-vs-neeska-bw.png",
-"https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/TCG%20ARENA/PLAYMATE/PM_neeska-vs-elio-bw.png",
-"https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/TCG%20ARENA/PLAYMATE/PM_Igrathar-vs-heckar-bw.png"
+      "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/TCG%20ARENA/PLAYMATE/PM_Igrathar-vs-heckar-c.png",
+      "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/TCG%20ARENA/PLAYMATE/PM_yldan-vs-neeska-bw.png",
+      "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/TCG%20ARENA/PLAYMATE/PM_neeska-vs-elio-bw.png",
+      "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/TCG%20ARENA/PLAYMATE/PM_Igrathar-vs-heckar-bw.png"
     ],
     "decksUrl": "https://slootq.github.io/Etheron-TCG-Arena/Etheron-Decks.json"
   },
@@ -19,7 +19,7 @@
     "cardBack": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-BACK-MAIN-1.webp",
     "cardBackColor": "#161E42",
     "extraCardBacks": {
-	"VoidDeck" : "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-BACK-VOID-1.webp"
+      "VoidDeck": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-BACK-VOID-1.webp"
     }
   },
   "deckBuilding": {
@@ -51,7 +51,7 @@
         "drawOnStart": false,
         "sharedTurn": false,
         "firstPlayerTokenName": "",
-        "drawPerTurn": "1"
+        "drawPerTurn": "2"
       },
       "defaultNotes": "PV Champions : utilisez un compteur ou des notes pour suivre les points de vie de chaque colonne de Champion (0 à 10).",
       "tokens": [],
@@ -154,6 +154,8 @@
                 }
               ],
               "isSymetricalForOpponents": true
+            }
+          ]
         },
         "categoriesAlreadyOnBoard": [],
         "autoPlayFromHand": {
