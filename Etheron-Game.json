@@ -34,7 +34,12 @@
       {
         "title": "Classic",
         "gameplay": "Classic",
-        "customCategories": []
+        "customCategories": [
+    "Champion1->Champion1",
+    "Champion2->Champion2",
+    "Champion3->Champion3",
+    "EtherBase->Ether"
+        ]
       }
     ]
   },
@@ -107,9 +112,9 @@
     ]
   },
   "categoriesAlreadyOnBoard": [
-    "Champion->Champion1",
-    "Champion->Champion2",
-    "Champion->Champion3",
+    "Champion1->Champion1",
+    "Champion2->Champion2",
+    "Champion3->Champion3",
     "EtherBase->Ether"
   ],
   "autoPlayFromHand": {
