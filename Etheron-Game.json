@@ -58,189 +58,142 @@
       "defaultNotes": "Utilisez les 3 compteurs pour suivre les points de vie de vos 3 Champions (0 à 10).",
       "hideFacedDownCards": false,
       "draggableTokens": [],
-      "sections": {
-        "customSections": [
-          "Invocations",
-          "Champion1",
-          "Champion2",
-          "Champion3",
-          "Ether",
-          "Reve",
-          "Sideboard"
-        ],
-        "layout": {
-          "direction": "column",
-          "isSymetricalForOpponents": true,
-          "content": [
-            {
-              "direction": "row",
-              "isSymetricalForOpponents": true,
-              "content": [
-                {
-                  "section": "Champion1",
-                  "style": {
-                    "width": "30%",
-                    "height": "10vh",
-                    "margin": "0.25vh",
-                    "borderRadius": "1vh"
-                  }
-                },
-                {
-                  "section": "Champion2",
-                  "style": {
-                    "width": "30%",
-                    "height": "10vh",
-                    "margin": "0.25vh",
-                    "borderRadius": "1vh"
-                  }
-                },
-                {
-                  "section": "Champion3",
-                  "style": {
-                    "width": "30%",
-                    "height": "10vh",
-                    "margin": "0.25vh",
-                    "borderRadius": "1vh"
-                  }
-                },
-                {
-                  "section": "Reve",
-                  "style": {
-                    "width": "10%",
-                    "height": "10vh",
-                    "margin": "0.25vh",
-                    "borderRadius": "1vh"
-                  }
-                }
-              ]
-            },
-            {
-              "direction": "row",
-              "isSymetricalForOpponents": true,
-              "content": [
-                {
-                  "section": "Invocations",
-                  "style": {
-                    "width": "40%",
-                    "height": "12vh",
-                    "margin": "0.25vh",
-                    "borderRadius": "1vh"
-                  }
-                },
-                {
-                  "section": "Ether",
-                  "style": {
-                    "width": "60%",
-                    "height": "12vh",
-                    "margin": "0.25vh",
-                    "borderRadius": "1vh"
-                  }
-                }
-              ]
-            },
-            {
-              "direction": "row",
-              "isSymetricalForOpponents": true,
-              "content": [
-                {
-                  "section": "Sideboard",
-                  "style": {
-                    "width": "12%",
-                    "height": "10vh",
-                    "margin": "1vh 0 0 8vh"
-                  }
-                }
-              ]
+"sections": {
+  "customSections": [
+    "Invocations",
+    "Champion1",
+    "Champion2",
+    "Champion3",
+    "Ether",
+    "Reve",
+    "Sideboard"
+  ],
+  "layout": {
+    "direction": "column",
+    "isSymetricalForOpponents": true,
+    "content": [
+      {
+        "direction": "row",
+        "isSymetricalForOpponents": true,
+        "content": [
+          { "section": "Champion1", "style": { "width": "30%" } },
+          { "section": "Champion2", "style": { "width": "30%" } },
+          { "section": "Champion3", "style": { "width": "30%" } },
+          { "section": "Reve",      "style": { "width": "10%" } }
+        ]
+      },
+      {
+        "direction": "row",
+        "isSymetricalForOpponents": true,
+        "content": [
+          { "section": "Invocations", "style": { "width": "35%" } },
+          { "section": "Ether",       "style": { "width": "65%" } }
+        ]
+      },
+      {
+        "direction": "row",
+        "isSymetricalForOpponents": true,
+        "content": [
+          {
+            "section": "Sideboard",
+            "style": {
+              "width": "12%",
+              "margin": "1vh 0 0 0",
+              "transform": "scale(0.6)"
             }
-          ]
-        },
-        "categoriesAlreadyOnBoard": [
-          "Champion1->Champion1",
-          "Champion2->Champion2",
-          "Champion3->Champion3",
-          "EtherBase->Ether"
-        ],
-        "autoPlayFromHand": {
-          "Invocation": "Invocations",
-          "Champion": "GROUP",
-          "Reve": "Reve",
-          "Ether": "Ether",
-          "Sort": "Stack"
-        },
-        "autoPlayFromStack": {
-          "Sort": "Discard"
-        },
-        "sectionsDict": {
-          "Stack": {
-            "isDefaultSection": true,
-            "title": "Stack",
-            "isHidden": "no",
-            "height": "HUGE",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "displayedTitle": "Pile"
-          },
-          "Invocations": {
-            "title": "Invocations",
-            "isHidden": "no",
-            "height": "HUGE",
-            "alignment": "CENTER",
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Invocations"
-          },
-          "Champion1": {
-            "title": "Champion1",
-            "isHidden": "no",
-            "height": "DEFAULT",
-            "alignment": "CENTER",
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Champion 1"
-          },
-          "Champion2": {
-            "title": "Champion2",
-            "isHidden": "no",
-            "height": "DEFAULT",
-            "alignment": "CENTER",
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Champion 2"
-          },
-          "Champion3": {
-            "title": "Champion3",
-            "isHidden": "no",
-            "height": "DEFAULT",
-            "alignment": "CENTER",
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Champion 3"
-          },
-          "Ether": {
-            "title": "Ether",
-            "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Éthers"
-          },
-          "Reve": {
-            "title": "Reve",
-            "isHidden": "no",
-            "height": "DEFAULT",
-            "alignment": "CENTER",
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Rêve"
-          },
-          "Sideboard": {
-            "title": "Sideboard",
-            "isHidden": "yes",
-            "height": "SMALL",
-            "alignment": "DECK",
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Void deck",
-            "cardBackColor": "#1E123D",
-            "noAutoPayTo": true
           }
-        }
+        ]
       }
+    ]
+  },
+  "categoriesAlreadyOnBoard": [
+    "Champion1->Champion1",
+    "Champion2->Champion2",
+    "Champion3->Champion3",
+    "EtherBase->Ether"
+  ],
+  "autoPlayFromHand": {
+    "Invocation": "Invocations",
+    "Champion": "GROUP",
+    "Reve": "Reve",
+    "Ether": "Ether",
+    "Sort": "Stack"
+  },
+  "autoPlayFromStack": {
+    "Sort": "Discard"
+  },
+  "sectionsDict": {
+    "Stack": {
+      "isDefaultSection": true,
+      "title": "Stack",
+      "isHidden": "no",
+      "height": "HUGE",
+      "alignment": "NONE",
+      "isHorizontalAllowed": false,
+      "isGroupForbidden": true,
+      "displayedTitle": "Pile"
+    },
+    "Invocations": {
+      "title": "Invocations",
+      "isHidden": "no",
+      "height": "MEDIUM",
+      "alignment": "CENTER",
+      "isHorizontalAllowed": true,
+      "displayedTitle": "Invocations"
+    },
+    "Champion1": {
+      "title": "Champion1",
+      "isHidden": "no",
+      "height": "DEFAULT",
+      "alignment": "CENTER",
+      "isHorizontalAllowed": true,
+      "displayedTitle": "Champion 1"
+    },
+    "Champion2": {
+      "title": "Champion2",
+      "isHidden": "no",
+      "height": "DEFAULT",
+      "alignment": "CENTER",
+      "isHorizontalAllowed": true,
+      "displayedTitle": "Champion 2"
+    },
+    "Champion3": {
+      "title": "Champion3",
+      "isHidden": "no",
+      "height": "DEFAULT",
+      "alignment": "CENTER",
+      "isHorizontalAllowed": true,
+      "displayedTitle": "Champion 3"
+    },
+    "Ether": {
+      "title": "Ether",
+      "isHidden": "no",
+      "height": "MEDIUM",
+      "alignment": "CENTER",
+      "isHorizontalAllowed": true,
+      "displayedTitle": "Éthers"
+    },
+    "Reve": {
+      "title": "Reve",
+      "isHidden": "no",
+      "height": "DEFAULT",
+      "alignment": "CENTER",
+      "isHorizontalAllowed": true,
+      "displayedTitle": "Rêve"
+    },
+    "Sideboard": {
+      "title": "Sideboard",
+      "isHidden": "no",
+      "height": "SMALL",
+      "alignment": "DECK",
+      "isHorizontalAllowed": false,
+      "displayedTitle": "Void deck",
+      "cardBackColor": "#1E123D",
+      "noAutoPayTo": true
+    }
+  }
+}
+
     }
   }
 }
