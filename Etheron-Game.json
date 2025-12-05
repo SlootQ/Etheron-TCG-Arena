@@ -95,31 +95,31 @@
           { "section": "Ether",       "style": { "width": "65%" } }
         ]
       },
-     {
-      "direction": "row",
-      "style": { "height": "8vh", "margin": "0" },
+    {
+  "direction": "row",
+  "style": { "height": "8vh", "margin": "0" },
+  "isSymetricalForOpponents": true,
+  "content": [
+    {
+      "direction": "column",
+      "style": { "height": "8vh", "margin": "0.25vh" },
       "content": [
         {
-          "direction": "column",
-          "style": { "height": "8vh", "margin": "0.25vh" },
-          "content": [
-            {
-              "section": "Sideboard",
-              "style": {
-                "width": "10vh",
-                "height": "10vh",
-                "scale": "0.6",
-                "position": "absolute",
-                "left": "1.5vh",
-                "bottom": "-1vh"
-              }
-            }
-          ]
+          "section": "Sideboard",
+          "style": {
+            "width": "10vh",
+            "height": "10vh",
+            "scale": "0.6",
+            "position": "absolute",
+            "left": "1.2vh",
+            "bottom": "-1.2vh"
+          }
         }
-      ],
-      "isSymetricalForOpponents": true
+      ]
     }
   ]
+}
+
   },
   "categoriesAlreadyOnBoard": [
     "Champion->Champion1",
