@@ -19,7 +19,7 @@
     "cardBack": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-BACK-MAIN-1.webp",
     "cardBackColor": "#161E42",
     "extraCardBacks": {
-      "VoidDeck": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-BACK-VOID-1.webp"
+      "Sideboard": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-BACK-VOID-1.webp"
     }
   },
   "deckBuilding": {
@@ -35,9 +35,9 @@
         "title": "Classic",
         "gameplay": "Classic",
         "customCategories": [
-    "Champion->Champion1",
-    "Champion->Champion2",
-    "Champion->Champion3",
+    "Champion1->Champion1",
+    "Champion2->Champion2",
+    "Champion3->Champion3",
     "EtherBase->Ether"
         ]
       }
@@ -95,26 +95,36 @@
           { "section": "Ether",       "style": { "width": "65%" } }
         ]
       },
-      {
-        "direction": "row",
-        "isSymetricalForOpponents": true,
-        "content": [
-          {
-            "section": "Sideboard",
-            "style": {
-              "width": "12%",
-              "margin": "1vh 0 0 0",
-              "transform": "scale(0.6)"
-            }
+{
+  "direction": "row",
+  "style": { "height": "8vh", "margin": "0" },
+  "isSymetricalForOpponents": true,
+  "content": [
+    {
+      "direction": "column",
+      "style": { "height": "8vh", "margin": "0.25vh" },
+      "content": [
+        {
+          "section": "Sideboard",
+          "style": {
+            "width": "10vh",
+            "height": "10vh",
+            "scale": "0.6",
+            "position": "absolute",
+            "left": "1.2vh",
+            "bottom": "-1.2vh"
           }
-        ]
-      }
+        }
+      ]
+    }
+  ]
+}
     ]
   },
   "categoriesAlreadyOnBoard": [
-    "Champion->Champion1",
-    "Champion->Champion2",
-    "Champion->Champion3",
+    "Champion1->Champion1",
+    "Champion2->Champion2",
+    "Champion3->Champion3",
     "EtherBase->Ether"
   ],
   "autoPlayFromHand": {
