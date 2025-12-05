@@ -109,7 +109,7 @@
           "style": {
             "width": "10vh",
             "height": "10vh",
-            "scale": "0.6",
+            "scale": "0.9",
             "position": "absolute",
             "left": "20vh",
             "bottom": "-1.2vh"
@@ -122,10 +122,8 @@
     ]
   },
   "categoriesAlreadyOnBoard": [
-    "Champion1->Champion1",
-    "Champion2->Champion2",
-    "Champion3->Champion3",
-    "EtherBase->Ether"
+    "Champion",
+    "Ether"
   ],
   "autoPlayFromHand": {
     "Invocation": "Invocations",
