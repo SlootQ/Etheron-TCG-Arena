@@ -19,7 +19,7 @@
     "cardBack": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-BACK-MAIN-1.webp",
     "cardBackColor": "#161E42",
     "extraCardBacks": {
-      "VoidDeck": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-BACK-VOID-1.webp"
+      "Sideboard": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-BACK-VOID-1.webp"
     }
   },
   "deckBuilding": {
