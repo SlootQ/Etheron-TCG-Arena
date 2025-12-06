@@ -39,7 +39,7 @@
     "Champion->Champion1",
     "Champion->Champion2",
     "Champion->Champion3",
-          "Ether"
+          "Ether->Ether"
         ]
       }
     ]
@@ -126,7 +126,7 @@
     "Champion->Champion1",
     "Champion->Champion2",
     "Champion->Champion3",
-    "Ether"
+    "Ether->Ether"
   ],
   "autoPlayFromHand": {
     "Invocation": "Invocations",
