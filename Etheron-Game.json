@@ -123,9 +123,9 @@
     ]
   },
   "categoriesAlreadyOnBoard": [
-    "Champion1->Champion1",
-    "Champion2->Champion2",
-    "Champion3->Champion3",
+    "Champion->Champion1",
+    "Champion->Champion2",
+    "Champion->Champion3",
     "Ether->Ether"
   ],
   "autoPlayFromHand": {
