@@ -35,10 +35,10 @@
         "title": "Classic",
         "gameplay": "Classic",
         "customCategories": [
-    "Champion1",
-    "Champion2",
-    "Champion3",
-          "Ether"
+    "Champion1->Champion1",
+    "Champion2->Champion2",
+    "Champion3->Champion3",
+    "Ether->Ether"
         ]
       }
     ]
