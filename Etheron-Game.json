@@ -93,31 +93,7 @@
           { "section": "Invocations", "style": { "width": "35%" } },
           { "section": "Ether",       "style": { "width": "65%" } }
         ]
-      },
-{
-  "direction": "row",
-  "style": { "height": "8vh", "margin": "0" },
-  "isSymetricalForOpponents": true,
-  "content": [
-    {
-      "direction": "column",
-      "style": { "height": "8vh", "margin": "0.25vh" },
-      "content": [
-        {
-          "section": "Sideboard",
-          "style": {
-            "width": "10vh",
-            "height": "10vh",
-            "scale": "0.9",
-            "position": "absolute",
-            "left": "20vh",
-            "bottom": "-1.2vh"
-          }
-        }
-      ]
-    }
-  ]
-}
+      }
     ]
   },
   "categoriesAlreadyOnBoard": [
@@ -149,7 +125,7 @@
     "Invocations": {
       "title": "Invocations",
       "isHidden": "no",
-      "height": "MEDIUM",
+      "height": "SMALL",
       "alignment": "CENTER",
       "isHorizontalAllowed": true,
       "displayedTitle": "Invocations"
@@ -157,7 +133,7 @@
     "Champion1": {
       "title": "Champion1",
       "isHidden": "no",
-      "height": "DEFAULT",
+      "height": "MEDIUM",
       "alignment": "CENTER",
       "isHorizontalAllowed": true,
       "displayedTitle": "Champion 1"
@@ -165,7 +141,7 @@
     "Champion2": {
       "title": "Champion2",
       "isHidden": "no",
-      "height": "DEFAULT",
+      "height": "MEDIUM",
       "alignment": "CENTER",
       "isHorizontalAllowed": true,
       "displayedTitle": "Champion 2"
@@ -173,7 +149,7 @@
     "Champion3": {
       "title": "Champion3",
       "isHidden": "no",
-      "height": "DEFAULT",
+      "height": "MEDIUM",
       "alignment": "CENTER",
       "isHorizontalAllowed": true,
       "displayedTitle": "Champion 3"
@@ -181,7 +157,7 @@
     "Ether": {
       "title": "Ether",
       "isHidden": "no",
-      "height": "MEDIUM",
+      "height": "SMALL",
       "alignment": "CENTER",
       "isHorizontalAllowed": true,
       "displayedTitle": "Éthers"
