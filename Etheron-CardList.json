@@ -12,7 +12,7 @@
       }
     },
     "name": "Elio",
-    "type": "Champion1",
+    "type": "Champion",
     "cost": 0,
     "Domain": [
       "💧 Eau"
@@ -78,7 +78,7 @@
       }
     },
     "name": "Heckar",
-    "type": "Champion2",
+    "type": "Champion",
     "cost": 0,
     "Domain": [
       "💧 Eau"
@@ -144,7 +144,7 @@
       }
     },
     "name": "Hydr-on",
-    "type": "Champion3",
+    "type": "Champion",
     "cost": 0,
     "Domain": [
       "💧 Eau"
