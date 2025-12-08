@@ -47,7 +47,7 @@
     "Classic": {
       "mulligan": {
         "info": "Piochez manuellement 4 cartes. Vous pouvez faire un mulligan une fois en remélangeant n'importe quelles cartes de votre main dans le deck puis en repiochant autant.",
-        "startingHandSize": 4,
+        "startingHandSize": 0,
         "drawNewHand": true,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
