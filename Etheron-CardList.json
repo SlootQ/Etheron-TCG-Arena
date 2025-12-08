@@ -5,14 +5,14 @@
     "face": {
       "front": {
         "name": "Elio",
-        "type": "Champion1",
+        "type": "Champion",
         "cost": 0,
         "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-001-1.webp",
         "isHorizontal": false
       }
     },
     "name": "Elio",
-    "type": "Champion1",
+    "type": "Champion",
     "cost": 0,
     "Domain": [
       "💧 Eau"
@@ -71,14 +71,14 @@
     "face": {
       "front": {
         "name": "Heckar",
-        "type": "Champion2",
+        "type": "Champion",
         "cost": 0,
         "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-004-1.webp",
         "isHorizontal": false
       }
     },
     "name": "Heckar",
-    "type": "Champion2",
+    "type": "Champion",
     "cost": 0,
     "Domain": [
       "💧 Eau"
@@ -137,14 +137,14 @@
     "face": {
       "front": {
         "name": "Hydr-on",
-        "type": "Champion3",
+        "type": "Champion",
         "cost": 0,
         "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-007-1.webp",
         "isHorizontal": false
       }
     },
     "name": "Hydr-on",
-    "type": "Champion3",
+    "type": "Champion",
     "cost": 0,
     "Domain": [
       "💧 Eau"
