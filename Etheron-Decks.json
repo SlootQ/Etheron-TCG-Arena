@@ -20,10 +20,6 @@
         "Sideboard"
       ],
 
-      "Sideboard": [
- 	{ "count": 1, "id": "ETH-AR-053-1" }
-      ],
-
       "Champion1": [
         { "count": 1, "id": "ETH-AR-025-1" }
       ],
@@ -62,7 +58,10 @@
         { "count": 3, "id": "ETH-AR-060-1" },
 	{ "count": 3, "id": "ETH-AR-072-1" },
 	{ "count": 3, "id": "ETH-AR-080-1" }
-      ]
+      ],
+		      "Sideboard": [
+ 	{ "count": 1, "id": "ETH-AR-053-1" }
+      ],
     }
   },
   {
@@ -85,10 +84,6 @@
         "Sort",
         "Sideboard"
       ],
-
-      "Sideboard": [
-		{ "count": 3, "id": "ETH-AR-084-1" }
-	  ],
 
       "Champion1": [
         { "count": 1, "id": "ETH-AR-010-1" }
@@ -133,7 +128,10 @@
 	{ "count": 2, "id": "ETH-AR-065-1" },
 	{ "count": 2, "id": "ETH-AR-074-1" },
 	{ "count": 2, "id": "ETH-AR-082-1" }
-      ]
+      ],
+	 "Sideboard": [
+		{ "count": 3, "id": "ETH-AR-084-1" }
+	  ],
     }
   }
 ]
