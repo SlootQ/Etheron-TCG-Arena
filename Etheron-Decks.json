@@ -86,7 +86,9 @@
         "Sideboard"
       ],
 
-      "Sideboard": [],
+      "Sideboard": [
+		{ "count": 2, "id": "ETH-AR-084-1" }
+	  ],
 
       "Champion1": [
         { "count": 1, "id": "ETH-AR-010-1" }
@@ -107,7 +109,7 @@
       ],
 
       "Ether": [
-        { "count": 4, "id": "ETH-AR-084-1" },
+    { "count": 2, "id": "ETH-AR-084-1" },
 	{ "count": 1, "id": "ETH-AR-086-1" }
       ],
 
