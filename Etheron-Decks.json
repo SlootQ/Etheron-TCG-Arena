@@ -1,1 +1,137 @@
-[]
+[
+  {
+    "title": "Agane, Stravox, Sp4rk - Starter Deck",
+    "id": "7c3b2a6e-4f1d-4b8a-8f3e-2c9a1d7f6b10",
+    "game": "Etheron",
+    "format": ["Classic"],
+    "cardCount": 41,
+    "createdAt": "2025-12-09T12:00:00.000Z",
+    "lastModifiedAt": "2025-12-09T12:00:00.000Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Champion1",
+        "Champion2",
+        "Champion3",
+	      "Ascension",
+        "Ether",
+        "Invocation",
+        "Reve",
+        "Sort",
+        "Sideboard"
+      ],
+
+      "Sideboard": [
+ 	{ "count": 1, "id": "ETH-AR-053-1" }
+      ],
+
+      "Champion1": [
+        { "count": 1, "id": "ETH-AR-025-1" }
+      ],
+      "Champion2": [
+        { "count": 1, "id": "ETH-AR-028-1" }
+      ],
+      "Champion3": [
+        { "count": 1, "id": "ETH-AR-031-1" }
+      ],
+      "Ascension": [
+        { "count": 2, "id": "ETH-AR-026-1" },
+        { "count": 2, "id": "ETH-AR-027-1" },
+	{ "count": 2, "id": "ETH-AR-029-1" },
+	{ "count": 2, "id": "ETH-AR-030-1" },
+	{ "count": 2, "id": "ETH-AR-032-1" },
+	{ "count": 2, "id": "ETH-AR-033-1" }
+      ],
+
+      "Ether": [
+        { "count": 3, "id": "ETH-AR-085-1" }
+      ],
+
+      "Invocation": [
+        { "count": 3, "id": "ETH-AR-053-1" },
+        { "count": 2, "id": "ETH-AR-050-1" }
+      ],
+
+      "Reve": [
+        { "count": 3, "id": "ETH-AR-034-1" },
+	{ "count": 2, "id": "ETH-AR-035-1" },
+	{ "count": 1, "id": "ETH-AR-044-1" },
+	{ "count": 2, "id": "ETH-AR-087-1" }
+      ],
+
+      "Sort": [
+        { "count": 3, "id": "ETH-AR-060-1" },
+	{ "count": 3, "id": "ETH-AR-072-1" },
+	{ "count": 3, "id": "ETH-AR-080-1" }
+      ]
+    }
+  },
+  {
+    "title": "Neeska, Khael, Xarnith - Starter Deck",
+    "id": "b1e6f9c4-0a2d-4c7e-9d12-6f8a3c5e1b77",
+    "game": "Etheron",
+    "format": ["Classic"],
+    "cardCount": 43,
+    "createdAt": "2025-12-09T12:00:00.000Z",
+    "lastModifiedAt": "2025-12-09T12:00:00.000Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Champion1",
+        "Champion2",
+        "Champion3",
+	      "Ascension",
+        "Ether",
+        "Invocation",
+        "Reve",
+        "Sort",
+        "Sideboard"
+      ],
+
+      "Sideboard": [],
+
+      "Champion1": [
+        { "count": 1, "id": "ETH-AR-010-1" }
+      ],
+      "Champion2": [
+        { "count": 1, "id": "ETH-AR-016-1" }
+      ],
+      "Champion3": [
+        { "count": 1, "id": "ETH-AR-019-1" }
+      ],
+      "Ascension": [
+        { "count": 2, "id": "ETH-AR-011-1" },
+        { "count": 2, "id": "ETH-AR-012-1" },
+	{ "count": 2, "id": "ETH-AR-017-1" },
+	{ "count": 2, "id": "ETH-AR-018-1" },
+	{ "count": 2, "id": "ETH-AR-020-1" },
+	{ "count": 2, "id": "ETH-AR-021-1" }
+      ],
+
+      "Ether": [
+        { "count": 4, "id": "ETH-AR-084-1" },
+	{ "count": 1, "id": "ETH-AR-086-1" }
+      ],
+
+      "Invocation": [
+        { "count": 3, "id": "ETH-AR-056-1" }
+      ],
+
+      "Reve": [
+        { "count": 2, "id": "ETH-AR-040-1" },
+	{ "count": 2, "id": "ETH-AR-041-1" },
+	{ "count": 2, "id": "ETH-AR-042-1" },
+	{ "count": 2, "id": "ETH-AR-047-1" },
+	{ "count": 1, "id": "ETH-AR-048-1" },
+	{ "count": 1, "id": "ETH-AR-088-1" }
+      ],
+
+      "Sort": [
+        { "count": 2, "id": "ETH-AR-057-1" },
+	{ "count": 2, "id": "ETH-AR-058-1" },
+	{ "count": 2, "id": "ETH-AR-059-1" },
+	{ "count": 2, "id": "ETH-AR-065-1" },
+	{ "count": 2, "id": "ETH-AR-074-1" },
+	{ "count": 2, "id": "ETH-AR-082-1" }
+      ]
+    }
+  }
+]
