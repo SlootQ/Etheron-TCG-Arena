@@ -110,8 +110,8 @@
             "height": "8vh",
             "scale": "0.9",
             "position": "absolute",
-            "right": "10vh",
-            "bottom": "5vh"
+            "left": "15vh",
+            "bottom": "-1vh"
           }
         }
       ]
