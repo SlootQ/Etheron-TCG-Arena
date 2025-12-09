@@ -101,17 +101,17 @@
   "content": [
     {
       "direction": "column",
-      "style": { "height": "8vh", "margin": "0.25vh" },
+      "style": { "height": "6vh", "margin": "0.25vh" },
       "content": [
         {
           "section": "Sideboard",
           "style": {
-            "width": "8vh",
-            "height": "8vh",
+            "width": "6vh",
+            "height": "6vh",
             "scale": "0.9",
             "position": "absolute",
-            "left": "15vh",
-            "bottom": "-1vh"
+            "left": "16.5vh",
+            "bottom": "0.5vh"
           }
         }
       ]
