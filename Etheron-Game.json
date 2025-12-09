@@ -90,33 +90,10 @@
         "direction": "row",
         "isSymetricalForOpponents": true,
         "content": [
-          { "section": "Invocations", "style": { "width": "35%" } },
+          { "section": "Sideboard", "style": { "width": "5%" } },
+          { "section": "Invocations", "style": { "width": "30%" } },
           { "section": "Ether",       "style": { "width": "65%" } }
         ]
-},
-      {
-  "direction": "row",
-  "style": { "height": "8vh", "margin": "0" },
-  "isSymetricalForOpponents": true,
-  "content": [
-    {
-      "direction": "column",
-      "style": { "height": "6vh", "margin": "0.25vh" },
-      "content": [
-        {
-          "section": "Sideboard",
-          "style": {
-            "width": "6vh",
-            "height": "6vh",
-            "scale": "0.9",
-            "position": "absolute",
-            "left": "16.5vh",
-            "bottom": "0.5vh"
-          }
-        }
-      ]
-    }
-  ]
 }
     ]
   },
