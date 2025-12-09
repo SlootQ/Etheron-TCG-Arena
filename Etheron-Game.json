@@ -90,7 +90,7 @@
         "direction": "row",
         "isSymetricalForOpponents": true,
         "content": [
-          { "section": "Sideboard", "style": { "width": "5%" } },
+          { "section": "Sideboard", "style": { "width": "3vh" } },
           { "section": "Invocations", "style": { "width": "30%" } },
           { "section": "Ether",       "style": { "width": "65%" } }
         ]
@@ -166,7 +166,7 @@
     "Reve": {
       "title": "Reve",
       "isHidden": "no",
-      "height": "DEFAULT",
+      "height": "SMALL",
       "alignment": "CENTER",
       "isHorizontalAllowed": true,
       "displayedTitle": "Rêve"
