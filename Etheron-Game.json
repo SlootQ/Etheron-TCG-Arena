@@ -91,7 +91,7 @@
         "isSymetricalForOpponents": true,
         "content": [
           { "section": "Sideboard", "style": { "width": "7%" } },
-          { "section": "Invocations", "style": { "width": "30%" } },
+          { "section": "Invocations", "style": { "width": "31%" } },
           { "section": "Ether",       "style": { "width": "63%" } }
         ]
 }
