@@ -90,7 +90,7 @@
         "direction": "row",
         "isSymetricalForOpponents": true,
         "content": [
-          { "section": "Sideboard", "style": { "width": "3vh" } },
+          { "section": "Sideboard", "style": { "width": "1vh" } },
           { "section": "Invocations", "style": { "width": "30%" } },
           { "section": "Ether",       "style": { "width": "65%" } }
         ]
