@@ -106,17 +106,12 @@
 	{ "count": 1, "id": "ETH-AR-086-1" }
       ],
 
-      "Invocation": [
-        { "count": 3, "id": "ETH-AR-056-1" }
-      ],
-
       "Reve": [
         { "count": 2, "id": "ETH-AR-040-1" },
 	{ "count": 2, "id": "ETH-AR-041-1" },
 	{ "count": 2, "id": "ETH-AR-042-1" },
 	{ "count": 2, "id": "ETH-AR-047-1" },
-	{ "count": 1, "id": "ETH-AR-048-1" },
-	{ "count": 1, "id": "ETH-AR-088-1" }
+	{ "count": 1, "id": "ETH-AR-048-1" }
       ],
 
       "Sort": [
@@ -128,7 +123,9 @@
 	{ "count": 2, "id": "ETH-AR-082-1" }
       ],
 	 "Sideboard": [
-		{ "count": 3, "id": "ETH-AR-084-1" }
+		{ "count": 3, "id": "ETH-AR-084-1" },
+		 { "count": 1, "id": "ETH-AR-056-1" },
+		 { "count": 1, "id": "ETH-AR-088-1" }
 	  ]
     }
   }
