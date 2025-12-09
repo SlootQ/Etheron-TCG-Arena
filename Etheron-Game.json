@@ -90,9 +90,9 @@
         "direction": "row",
         "isSymetricalForOpponents": true,
         "content": [
-          { "section": "Sideboard", "style": { "width": "6%" } },
+          { "section": "Sideboard", "style": { "width": "7%" } },
           { "section": "Invocations", "style": { "width": "30%" } },
-          { "section": "Ether",       "style": { "width": "64%" } }
+          { "section": "Ether",       "style": { "width": "63%" } }
         ]
 }
     ]
