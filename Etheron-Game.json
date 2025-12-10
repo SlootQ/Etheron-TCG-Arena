@@ -65,12 +65,12 @@
               {
                   "id": "actif",
                   "name": "Actif",
-                  "image": "https://lh3.googleusercontent.com/d/1rjBIrmynI-IXisMCBxdB3olsvmBA-QPc"
+                  "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/TCG%20ARENA/Tokens/actif.png"
               },
               {
                   "id": "first-player",
                   "name": "First Player",
-                  "image": "https://lh3.googleusercontent.com/d/1FpIll0WPnia4KrMeGjlMLU7AemLn7q_3"
+                  "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/TCG%20ARENA/Tokens/first-player.png"
               }
           ],
 "sections": {
@@ -161,7 +161,7 @@
           "destination": "Sideboard",
            "position": "BOTTOM"
           },
-             "image": "https://russeus.github.io/RB-TCG-Arena/Images/recycleButton.png"
+             "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/TCG%20ARENA/Tokens/recycle-button.png"
           }
     },
     "Champion1": {
@@ -259,7 +259,7 @@
           "destination": "Sideboard",
            "position": "BOTTOM"
           },
-             "image": "https://russeus.github.io/RB-TCG-Arena/Images/recycleButton.png"
+             "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/TCG%20ARENA/Tokens/recycle-button.png"
           }
     },
     "Reve": {
@@ -276,7 +276,7 @@
           "destination": "Sideboard",
            "position": "BOTTOM"
           },
-             "image": "https://russeus.github.io/RB-TCG-Arena/Images/recycleButton.png"
+             "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/TCG%20ARENA/Tokens/recycle-button.png"
           }
     },
     "Sideboard": {
