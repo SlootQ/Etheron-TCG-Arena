@@ -158,7 +158,7 @@
     },
     "Champion1": {
       "title": "Champion1",
-      "isHidden": "no",
+      "isHidden": "yes",
       "height": "MEDIUM",
       "alignment": "CENTER",
       "isHorizontalAllowed": true,
@@ -185,7 +185,7 @@
     },
     "Champion2": {
       "title": "Champion2",
-      "isHidden": "no",
+      "isHidden": "yes",
       "height": "MEDIUM",
       "alignment": "CENTER",
       "isHorizontalAllowed": true,
@@ -212,7 +212,7 @@
     },
     "Champion3": {
       "title": "Champion3",
-      "isHidden": "no",
+      "isHidden": "yes",
       "height": "MEDIUM",
       "alignment": "CENTER",
       "isHorizontalAllowed": true,
