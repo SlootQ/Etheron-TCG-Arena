@@ -150,7 +150,7 @@
     "Invocations": {
       "title": "Invocations",
       "isHidden": "no",
-      "height": "MEDIUM",
+      "height": "SMALL",
       "alignment": "CENTER",
       "isHorizontalAllowed": true,
       "opponentAlignment": false,
@@ -257,7 +257,7 @@
     "Reve": {
       "title": "Reve",
       "isHidden": "no",
-      "height": "MEDIUM",
+      "height": "SMALL",
       "alignment": "CENTER",
       "isHorizontalAllowed": true,
       "opponentAlignment": false,
