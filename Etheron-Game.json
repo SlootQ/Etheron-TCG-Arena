@@ -61,7 +61,18 @@
       "countersStartingValues": [10, 10, 10],
       "defaultNotes": "Utilisez les 3 compteurs pour suivre les points de vie de vos 3 Champions (0 à 10).",
       "hideFacedDownCards": false,
-      "draggableTokens": [],
+      "draggableTokens": [
+              {
+                  "id": "actif",
+                  "name": "Actif",
+                  "image": "https://lh3.googleusercontent.com/d/1rjBIrmynI-IXisMCBxdB3olsvmBA-QPc"
+              },
+              {
+                  "id": "first-player",
+                  "name": "First Player",
+                  "image": "https://lh3.googleusercontent.com/d/1FpIll0WPnia4KrMeGjlMLU7AemLn7q_3"
+              }
+          ],
 "sections": {
   "customSections": [
     "Invocations",
@@ -80,11 +91,11 @@
   ],
   "layout": {
     "direction": "column",
-    "isSymetricalForOpponents": true,
+    "isSymetricalForOpponents": false,
     "content": [
       {
         "direction": "row",
-        "isSymetricalForOpponents": true,
+        "isSymetricalForOpponents": false,
         "content": [
           { "section": "Reve", "style": { "width": "8%" } },
           { "section": "Invocations", "style": { "width": "28%" } },
@@ -95,7 +106,7 @@
       },
       {
         "direction": "row",
-        "isSymetricalForOpponents": true,
+        "isSymetricalForOpponents": false,
         "content": [
           { "section": "Sideboard", "style": { "width": "8%" } },
           { "section": "Ether", "style": { "width": "28%" } },
@@ -133,14 +144,16 @@
       "alignment": "NONE",
       "isHorizontalAllowed": false,
       "isGroupForbidden": true,
-      "displayedTitle": "Pile"
+      "opponentAlignment": false,
+      "displayedTitle": "Sort"
     },
     "Invocations": {
       "title": "Invocations",
       "isHidden": "no",
-      "height": "SMALL",
+      "height": "MEDIUM",
       "alignment": "CENTER",
       "isHorizontalAllowed": true,
+      "opponentAlignment": false,
       "displayedTitle": "Invocations"
     },
     "Champion1": {
@@ -149,6 +162,7 @@
       "height": "MEDIUM",
       "alignment": "CENTER",
       "isHorizontalAllowed": true,
+      "opponentAlignment": false,
       "displayedTitle": "Champion 1"
     },
       "Champion1a": {
@@ -157,6 +171,7 @@
       "height": "SMALL",
       "alignment": "CENTER",
       "isHorizontalAllowed": true,
+      "opponentAlignment": false,
       "displayedTitle": "Champion 1a"
     },
       "Champion1b": {
@@ -165,6 +180,7 @@
       "height": "SMALL",
       "alignment": "CENTER",
       "isHorizontalAllowed": true,
+      "opponentAlignment": false,
       "displayedTitle": "Champion 1b"
     },
     "Champion2": {
@@ -173,6 +189,7 @@
       "height": "MEDIUM",
       "alignment": "CENTER",
       "isHorizontalAllowed": true,
+      "opponentAlignment": false,
       "displayedTitle": "Champion 2"
     },
       "Champion2a": {
@@ -181,6 +198,7 @@
       "height": "SMALL",
       "alignment": "CENTER",
       "isHorizontalAllowed": true,
+      "opponentAlignment": false,
       "displayedTitle": "Champion 2a"
     },
       "Champion2b": {
@@ -189,6 +207,7 @@
       "height": "SMALL",
       "alignment": "CENTER",
       "isHorizontalAllowed": true,
+      "opponentAlignment": false,
       "displayedTitle": "Champion 2b"
     },
     "Champion3": {
@@ -197,6 +216,7 @@
       "height": "MEDIUM",
       "alignment": "CENTER",
       "isHorizontalAllowed": true,
+      "opponentAlignment": false,
       "displayedTitle": "Champion 3"
     },
       "Champion3a": {
@@ -205,6 +225,7 @@
       "height": "SMALL",
       "alignment": "CENTER",
       "isHorizontalAllowed": true,
+      "opponentAlignment": false,
       "displayedTitle": "Champion 3a"
     },
       "Champion3b": {
@@ -213,6 +234,7 @@
       "height": "SMALL",
       "alignment": "CENTER",
       "isHorizontalAllowed": true,
+      "opponentAlignment": false,
       "displayedTitle": "Champion 3b"
     },
     "Ether": {
@@ -221,14 +243,24 @@
       "height": "SMALL",
       "alignment": "CENTER",
       "isHorizontalAllowed": true,
-      "displayedTitle": "Éthers"
+      "opponentAlignment": false,
+      "displayedTitle": "Ethers",
+      "cardActionShortcut": {
+         "action": "MOVE",
+          "actionData": {
+          "destination": "Sideboard",
+           "position": "BOTTOM"
+          },
+             "image": "https://russeus.github.io/RB-TCG-Arena/Images/recycleButton.png"
+          }
     },
     "Reve": {
       "title": "Reve",
       "isHidden": "no",
-      "height": "SMALL",
+      "height": "MEDIUM",
       "alignment": "CENTER",
       "isHorizontalAllowed": true,
+      "opponentAlignment": false,
       "displayedTitle": "Rêve"
     },
     "Sideboard": {
@@ -237,6 +269,7 @@
       "height": "SMALL",
       "alignment": "DECK",
       "isHorizontalAllowed": false,
+      "opponentAlignment": false,
       "displayedTitle": "Void deck",
       "cardBackColor": "#1E123D",
       "noAutoPayTo": true
