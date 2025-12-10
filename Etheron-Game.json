@@ -97,7 +97,7 @@
         "direction": "row",
         "isSymetricalForOpponents": false,
         "content": [
-          { "section": "Reve", "style": { "width": "8%" } },
+          { "section": "Reve", "style": { "width": "7%" } },
           { "section": "Invocations", "style": { "width": "28%" } },
           { "section": "Champion1", "style": { "width": "21.33%" } },
           { "section": "Champion2", "style": { "width": "21.33%" } },
@@ -154,7 +154,15 @@
       "alignment": "CENTER",
       "isHorizontalAllowed": true,
       "opponentAlignment": false,
-      "displayedTitle": "Invocations"
+      "displayedTitle": "Invocations",
+      "cardActionShortcut": {
+         "action": "MOVE",
+          "actionData": {
+          "destination": "Sideboard",
+           "position": "BOTTOM"
+          },
+             "image": "https://russeus.github.io/RB-TCG-Arena/Images/recycleButton.png"
+          }
     },
     "Champion1": {
       "title": "Champion1",
@@ -261,7 +269,15 @@
       "alignment": "CENTER",
       "isHorizontalAllowed": true,
       "opponentAlignment": false,
-      "displayedTitle": "Rêve"
+      "displayedTitle": "Rêve",
+        "cardActionShortcut": {
+         "action": "MOVE",
+          "actionData": {
+          "destination": "Sideboard",
+           "position": "BOTTOM"
+          },
+             "image": "https://russeus.github.io/RB-TCG-Arena/Images/recycleButton.png"
+          }
     },
     "Sideboard": {
       "title": "Sideboard",
