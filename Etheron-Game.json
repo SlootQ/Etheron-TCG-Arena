@@ -66,8 +66,14 @@
   "customSections": [
     "Invocations",
     "Champion1",
+    "Champion1a",
+    "Champion1b",
     "Champion2",
+    "Champion2a",
+    "Champion2b",
     "Champion3",
+    "Champion3a",
+    "Champion3b",
     "Ether",
     "Reve",
     "Sideboard"
@@ -80,19 +86,25 @@
         "direction": "row",
         "isSymetricalForOpponents": true,
         "content": [
-          { "section": "Champion1", "style": { "width": "30%" } },
-          { "section": "Champion2", "style": { "width": "30%" } },
-          { "section": "Champion3", "style": { "width": "30%" } },
-          { "section": "Reve",      "style": { "width": "10%" } }
+          { "section": "Reve", "style": { "width": "8%" } },
+          { "section": "Invocations", "style": { "width": "28%" } },
+          { "section": "Champion1", "style": { "width": "21.33%" } },
+          { "section": "Champion2", "style": { "width": "21.33%" } },
+          { "section": "Champion3", "style": { "width": "21.33%" } }
         ]
       },
       {
         "direction": "row",
         "isSymetricalForOpponents": true,
         "content": [
-          { "section": "Sideboard", "style": { "width": "7%" } },
-          { "section": "Invocations", "style": { "width": "31%" } },
-          { "section": "Ether",       "style": { "width": "63%" } }
+          { "section": "Sideboard", "style": { "width": "8%" } },
+          { "section": "Ether", "style": { "width": "28%" } },
+          { "section": "Champion1b", "style": { "width": "10.66%" } },
+          { "section": "Champion1a", "style": { "width": "10.66%" } },
+          { "section": "Champion2b", "style": { "width": "10.66%" } },
+          { "section": "Champion2a", "style": { "width": "10.66%" } },
+          { "section": "Champion3b", "style": { "width": "10.66%" } },
+          { "section": "Champion3a", "style": { "width": "10.66%" } }
         ]
 }
     ]
@@ -139,6 +151,22 @@
       "isHorizontalAllowed": true,
       "displayedTitle": "Champion 1"
     },
+      "Champion1a": {
+      "title": "Champion1a",
+      "isHidden": "no",
+      "height": "SMALL",
+      "alignment": "CENTER",
+      "isHorizontalAllowed": true,
+      "displayedTitle": "Champion 1a"
+    },
+      "Champion1b": {
+      "title": "Champion1b",
+      "isHidden": "no",
+      "height": "SMALL",
+      "alignment": "CENTER",
+      "isHorizontalAllowed": true,
+      "displayedTitle": "Champion 1b"
+    },
     "Champion2": {
       "title": "Champion2",
       "isHidden": "no",
@@ -147,6 +175,22 @@
       "isHorizontalAllowed": true,
       "displayedTitle": "Champion 2"
     },
+      "Champion2a": {
+      "title": "Champion2a",
+      "isHidden": "no",
+      "height": "SMALL",
+      "alignment": "CENTER",
+      "isHorizontalAllowed": true,
+      "displayedTitle": "Champion 2a"
+    },
+      "Champion2b": {
+      "title": "Champion2b",
+      "isHidden": "no",
+      "height": "SMALL",
+      "alignment": "CENTER",
+      "isHorizontalAllowed": true,
+      "displayedTitle": "Champion 2b"
+    },
     "Champion3": {
       "title": "Champion3",
       "isHidden": "no",
@@ -154,6 +198,22 @@
       "alignment": "CENTER",
       "isHorizontalAllowed": true,
       "displayedTitle": "Champion 3"
+    },
+      "Champion3a": {
+      "title": "Champion3a",
+      "isHidden": "no",
+      "height": "SMALL",
+      "alignment": "CENTER",
+      "isHorizontalAllowed": true,
+      "displayedTitle": "Champion 3a"
+    },
+      "Champion3b": {
+      "title": "Champion3b",
+      "isHidden": "no",
+      "height": "SMALL",
+      "alignment": "CENTER",
+      "isHorizontalAllowed": true,
+      "displayedTitle": "Champion 3b"
     },
     "Ether": {
       "title": "Ether",
