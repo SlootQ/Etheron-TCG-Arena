@@ -66,11 +66,6 @@
                   "id": "actif",
                   "name": "Actif",
                   "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/TCG%20ARENA/Tokens/actif.png"
-              },
-              {
-                  "id": "first-player",
-                  "name": "First Player",
-                  "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/TCG%20ARENA/Tokens/first-player.png"
               }
           ],
 "sections": {
@@ -161,7 +156,7 @@
           "destination": "Sideboard",
            "position": "BOTTOM"
           },
-             "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/TCG%20ARENA/Tokens/recycle-button.png"
+             "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/TCG%20ARENA/Tokens/recycle-button1.png"
           }
     },
     "Champion1": {
@@ -259,7 +254,7 @@
           "destination": "Sideboard",
            "position": "BOTTOM"
           },
-             "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/TCG%20ARENA/Tokens/recycle-button.png"
+             "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/TCG%20ARENA/Tokens/recycle-button1.png"
           }
     },
     "Reve": {
@@ -276,7 +271,7 @@
           "destination": "Sideboard",
            "position": "BOTTOM"
           },
-             "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/TCG%20ARENA/Tokens/recycle-button.png"
+             "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/TCG%20ARENA/Tokens/recycle-button1.png"
           }
     },
     "Sideboard": {
