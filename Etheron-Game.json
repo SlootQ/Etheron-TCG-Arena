@@ -239,7 +239,7 @@
     },
     "Ether": {
       "title": "Ether",
-      "isHidden": "no",
+      "isHidden": "yes",
       "height": "SMALL",
       "alignment": "CENTER",
       "isHorizontalAllowed": true,
