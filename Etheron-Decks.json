@@ -36,23 +36,19 @@
 	{ "count": 2, "id": "ETH-AR-032-1" },
 	{ "count": 2, "id": "ETH-AR-033-1" }
       ],
-
       "Ether": [
         { "count": 3, "id": "ETH-AR-085-1" }
       ],
-
       "Invocation": [
         { "count": 3, "id": "ETH-AR-053-1" },
         { "count": 2, "id": "ETH-AR-050-1" }
       ],
-
       "Reve": [
         { "count": 3, "id": "ETH-AR-034-1" },
 	{ "count": 2, "id": "ETH-AR-035-1" },
 	{ "count": 1, "id": "ETH-AR-044-1" },
 	{ "count": 2, "id": "ETH-AR-087-1" }
       ],
-
       "Sort": [
         { "count": 3, "id": "ETH-AR-060-1" },
 	{ "count": 3, "id": "ETH-AR-072-1" },
@@ -78,7 +74,6 @@
         "Champion3",
 	      "Ascension",
         "Ether",
-        "Invocation",
         "Reve",
         "Sort"
       ],
