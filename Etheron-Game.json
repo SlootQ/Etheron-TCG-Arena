@@ -20,7 +20,8 @@
     "cardBackColor": "#161E42",
     "extraCardBacks": {
       "Sideboard": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-BACK-VOID-1.webp"
-    }
+    },
+    "translationsUrl": "https://slootq.github.io/Etheron-TCG-Arena/Translations.json"
   },
   "deckBuilding": {
     "mainFilters": [
