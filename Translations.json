@@ -19,10 +19,9 @@
             "Classic": "Classique"
         },
         "Sections": {
-            "Main": "Principale",
             "Invocations": "Summons",
-            "Reve": "Dream",
-	    "Sort": "Spell",
+            "Rêve": "Dream",
+	       "Sort": "Spell"
         },
         "Big stuffs": {
             "translations.customHelp": "Is a test",
