@@ -1,12 +1,21 @@
    {
      "additionalLanguages": ["en"],
+	    "fr": {
+        "Big stuffs": {
+            "translations.customHelp": "Ceci est un test",
+            "translations.mulliganInfo": "test text mulligan."
+        },
+        "Gameplay": {
+            "Classic": "Classique"
+        }
+    },
     "en": {
-        "Card types": {
+        "Deck - Card types": {
             "Sort": "Spell",
             "Reve": "Dream",
             "Invocation": "Summon"
         },
-        "Card element": {
+        "Deck - Card color": {
             "Feu": "fire",
             "Eau": "Water",
             "Nature": "Nature",
