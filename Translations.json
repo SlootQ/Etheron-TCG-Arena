@@ -1,0 +1,32 @@
+   {
+     "additionalLanguages": ["en"],
+    "en": {
+        "Card types": {
+            "Sort": "Spell",
+            "Reve": "Dream",
+            "Invocation": "Summon"
+        },
+        "Card element": {
+            "Feu": "fire",
+            "Eau": "Water",
+            "Nature": "Nature",
+            "Foudre": "Lightning"
+        },
+        "Deck - Others": {
+            "cost": "coût"
+        },
+        "Gameplay": {
+            "Classic": "Classique"
+        },
+        "Sections": {
+            "Main": "Principale",
+            "Invocations": "Summons",
+            "Reve": "Dream",
+	    "Sort": "Spell",
+        },
+        "Big stuffs": {
+            "translations.customHelp": "Is a test",
+            "translations.mulliganInfo": "is other test"
+        }
+    }
+}
