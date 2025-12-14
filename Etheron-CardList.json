@@ -4,21 +4,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Elio",
-        "type": "Champion",
-        "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-001-1.webp",
+        "name": {
+          "fr": "Elio - Oeil de la vague",
+          "en": "Elio - Eye of the wave"
+        },
+        "type": "champion",
+        "cost": 1,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-001-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-001-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Elio",
-    "type": "Champion",
-    "cost": 0,
-    "Domain": [
-      "💧 Eau"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "name": {
+      "fr": "Elio - Oeil de la vague",
+      "en": "Elio - Eye of the wave"
+    },
+    "type": "champion",
+    "cost": 1,
+    "Element": [
+      "Eau"
     ]
   },
   "ETH-AR-002-1": {
@@ -26,21 +32,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Elio",
-        "type": "Ascension",
-        "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-002-1.webp",
+        "name": {
+          "fr": "Elio - Coeur de la marée",
+          "en": "Elio - Heart of the tide"
+        },
+        "type": "ascension",
+        "cost": 2,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-002-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-002-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Elio",
-    "type": "Ascension",
-    "cost": 0,
-    "Domain": [
-      "💧 Eau"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "name": {
+      "fr": "Elio - Coeur de la marée",
+      "en": "Elio - Heart of the tide"
+    },
+    "type": "ascension",
+    "cost": 2,
+    "Element": [
+      "Eau"
     ]
   },
   "ETH-AR-003-1": {
@@ -48,21 +60,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Elio",
-        "type": "Ascension",
-        "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-003-1.webp",
+        "name": {
+          "fr": "Elio - Abime silencieux",
+          "en": "Elio - Silent abyss"
+        },
+        "type": "ascension",
+        "cost": 2,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-003-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-003-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Elio",
-    "type": "Ascension",
-    "cost": 0,
-    "Domain": [
-      "💧 Eau"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "name": {
+      "fr": "Elio - Abime silencieux",
+      "en": "Elio - Silent abyss"
+    },
+    "type": "ascension",
+    "cost": 2,
+    "Element": [
+      "Eau"
     ]
   },
   "ETH-AR-004-1": {
@@ -70,21 +88,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Heckar",
-        "type": "Champion",
-        "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-004-1.webp",
+        "name": {
+          "fr": "Heckar - Cuirassé pacifique",
+          "en": "Heckar - Peaceful Battleship"
+        },
+        "type": "champion",
+        "cost": 1,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-004-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-004-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Heckar",
-    "type": "Champion",
-    "cost": 0,
-    "Domain": [
-      "💧 Eau"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "name": {
+      "fr": "Heckar - Cuirassé pacifique",
+      "en": "Heckar - Peaceful Battleship"
+    },
+    "type": "champion",
+    "cost": 1,
+    "Element": [
+      "Eau"
     ]
   },
   "ETH-AR-005-1": {
@@ -92,21 +116,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Heckar",
-        "type": "Ascension",
+        "name": {
+          "fr": "Heckar - placeholder",
+          "en": "Heckar - placeholder"
+        },
+        "type": "ascension",
         "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-005-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-005-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-005-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Heckar",
-    "type": "Ascension",
+    "name": {
+      "fr": "Heckar - placeholder",
+      "en": "Heckar - placeholder"
+    },
+    "type": "ascension",
     "cost": 0,
-    "Domain": [
-      "💧 Eau"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Eau"
     ]
   },
   "ETH-AR-006-1": {
@@ -114,21 +144,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Heckar",
-        "type": "Ascension",
-        "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-006-1.webp",
+        "name": {
+          "fr": "Heckar - placeholder",
+          "en": "Heckar - placeholder"
+        },
+        "type": "ascension",
+        "cost": 2,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-006-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-006-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Heckar",
-    "type": "Ascension",
-    "cost": 0,
-    "Domain": [
-      "💧 Eau"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "name": {
+      "fr": "Heckar - placeholder",
+      "en": "Heckar - placeholder"
+    },
+    "type": "ascension",
+    "cost": 2,
+    "Element": [
+      "Eau"
     ]
   },
   "ETH-AR-007-1": {
@@ -136,21 +172,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Hydr-on",
-        "type": "Champion",
-        "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-007-1.webp",
+        "name": {
+          "fr": "Hydr-on - Canon de compression",
+          "en": "Hydr-on - Compression cannon"
+        },
+        "type": "champion",
+        "cost": 1,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-007-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-007-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Hydr-on",
-    "type": "Champion",
-    "cost": 0,
-    "Domain": [
-      "💧 Eau"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "name": {
+      "fr": "Hydr-on - Canon de compression",
+      "en": "Hydr-on - Compression cannon"
+    },
+    "type": "champion",
+    "cost": 1,
+    "Element": [
+      "Eau"
     ]
   },
   "ETH-AR-008-1": {
@@ -158,21 +200,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Hydr-on",
-        "type": "Ascension",
+        "name": {
+          "fr": "Hydr-on - placeholder",
+          "en": "Hydr-on - placeholder"
+        },
+        "type": "ascension",
         "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-008-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-008-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-008-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Hydr-on",
-    "type": "Ascension",
+    "name": {
+      "fr": "Hydr-on - placeholder",
+      "en": "Hydr-on - placeholder"
+    },
+    "type": "ascension",
     "cost": 0,
-    "Domain": [
-      "💧 Eau"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Eau"
     ]
   },
   "ETH-AR-009-1": {
@@ -180,21 +228,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Hydr-on",
-        "type": "Ascension",
-        "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-009-1.webp",
+        "name": {
+          "fr": "Hydr-on - placeholder",
+          "en": "Hydr-on - placeholder"
+        },
+        "type": "ascension",
+        "cost": 2,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-009-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-009-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Hydr-on",
-    "type": "Ascension",
-    "cost": 0,
-    "Domain": [
-      "💧 Eau"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "name": {
+      "fr": "Hydr-on - placeholder",
+      "en": "Hydr-on - placeholder"
+    },
+    "type": "ascension",
+    "cost": 2,
+    "Element": [
+      "Eau"
     ]
   },
   "ETH-AR-010-1": {
@@ -202,21 +256,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Neeska",
-        "type": "Champion",
-        "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-010-1.webp",
+        "name": {
+          "fr": "Neeska - Écarlate",
+          "en": "Neeska - Scarlet"
+        },
+        "type": "champion",
+        "cost": 1,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-010-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-010-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Neeska",
-    "type": "Champion",
-    "cost": 0,
-    "Domain": [
-      "🔥 Feu"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "name": {
+      "fr": "Neeska - Écarlate",
+      "en": "Neeska - Scarlet"
+    },
+    "type": "champion",
+    "cost": 1,
+    "Element": [
+      "Feu"
     ]
   },
   "ETH-AR-011-1": {
@@ -224,21 +284,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Neeska",
-        "type": "Ascension",
-        "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-011-1.webp",
+        "name": {
+          "fr": "Neeska - placeholder",
+          "en": "Neeska - placeholder"
+        },
+        "type": "ascension",
+        "cost": 1,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-011-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-011-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Neeska",
-    "type": "Ascension",
-    "cost": 0,
-    "Domain": [
-      "🔥 Feu"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "name": {
+      "fr": "Neeska - placeholder",
+      "en": "Neeska - placeholder"
+    },
+    "type": "ascension",
+    "cost": 1,
+    "Element": [
+      "Feu"
     ]
   },
   "ETH-AR-012-1": {
@@ -246,21 +312,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Neeska",
-        "type": "Ascension",
-        "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-012-1.webp",
+        "name": {
+          "fr": "Neeska - placeholder",
+          "en": "Neeska - placeholder"
+        },
+        "type": "ascension",
+        "cost": 2,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-012-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-012-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Neeska",
-    "type": "Ascension",
-    "cost": 0,
-    "Domain": [
-      "🔥 Feu"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "name": {
+      "fr": "Neeska - placeholder",
+      "en": "Neeska - placeholder"
+    },
+    "type": "ascension",
+    "cost": 2,
+    "Element": [
+      "Feu"
     ]
   },
   "ETH-AR-013-1": {
@@ -268,21 +340,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Blazeforge",
-        "type": "Champion",
-        "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-013-1.webp",
+        "name": {
+          "fr": "Blazeforge - Unité Pacificatrice",
+          "en": "Blazeforge - Pacifying Unit"
+        },
+        "type": "champion",
+        "cost": 1,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-013-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-013-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Blazeforge",
-    "type": "Champion",
-    "cost": 0,
-    "Domain": [
-      "🔥 Feu"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "name": {
+      "fr": "Blazeforge - Unité Pacificatrice",
+      "en": "Blazeforge - Pacifying Unit"
+    },
+    "type": "champion",
+    "cost": 1,
+    "Element": [
+      "Feu"
     ]
   },
   "ETH-AR-014-1": {
@@ -290,21 +368,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Blazeforge",
-        "type": "Ascension",
-        "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-014-1.webp",
+        "name": {
+          "fr": "Blazeforge - RuneForge",
+          "en": "Blazeforge - RuneForge"
+        },
+        "type": "ascension",
+        "cost": 1,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-014-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-014-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Blazeforge",
-    "type": "Ascension",
-    "cost": 0,
-    "Domain": [
-      "🔥 Feu"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "name": {
+      "fr": "Blazeforge - RuneForge",
+      "en": "Blazeforge - RuneForge"
+    },
+    "type": "ascension",
+    "cost": 1,
+    "Element": [
+      "Feu"
     ]
   },
   "ETH-AR-015-1": {
@@ -312,21 +396,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Blazeforge",
-        "type": "Ascension",
-        "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-015-1.webp",
+        "name": {
+          "fr": "Blazeforge - Forteresse Incandescente",
+          "en": "Blazeforge - Incandescent Fortress"
+        },
+        "type": "ascension",
+        "cost": 2,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-015-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-015-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Blazeforge",
-    "type": "Ascension",
-    "cost": 0,
-    "Domain": [
-      "🔥 Feu"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "name": {
+      "fr": "Blazeforge - Forteresse Incandescente",
+      "en": "Blazeforge - Incandescent Fortress"
+    },
+    "type": "ascension",
+    "cost": 2,
+    "Element": [
+      "Feu"
     ]
   },
   "ETH-AR-016-1": {
@@ -334,21 +424,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Khael",
-        "type": "Champion",
-        "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-016-1.webp",
+        "name": {
+          "fr": "Khael - Bras de la forêt",
+          "en": "Khael - Arm of the forest"
+        },
+        "type": "champion",
+        "cost": 1,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-016-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-016-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Khael",
-    "type": "Champion",
-    "cost": 0,
-    "Domain": [
-      "🌿 Nature"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "name": {
+      "fr": "Khael - Bras de la forêt",
+      "en": "Khael - Arm of the forest"
+    },
+    "type": "champion",
+    "cost": 1,
+    "Element": [
+      "Nature"
     ]
   },
   "ETH-AR-017-1": {
@@ -356,21 +452,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Khael",
-        "type": "Ascension",
-        "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-017-1.webp",
+        "name": {
+          "fr": "Khael - placeholder",
+          "en": "Khael - placeholder"
+        },
+        "type": "ascension",
+        "cost": 2,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-017-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-017-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Khael",
-    "type": "Ascension",
-    "cost": 0,
-    "Domain": [
-      "🌿 Nature"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "name": {
+      "fr": "Khael - placeholder",
+      "en": "Khael - placeholder"
+    },
+    "type": "ascension",
+    "cost": 2,
+    "Element": [
+      "Nature"
     ]
   },
   "ETH-AR-018-1": {
@@ -378,21 +480,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Khael",
-        "type": "Ascension",
-        "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-018-1.webp",
+        "name": {
+          "fr": "Khael - placeholder",
+          "en": "Khael - placeholder"
+        },
+        "type": "ascension",
+        "cost": 2,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-018-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-018-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Khael",
-    "type": "Ascension",
-    "cost": 0,
-    "Domain": [
-      "🌿 Nature"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "name": {
+      "fr": "Khael - placeholder",
+      "en": "Khael - placeholder"
+    },
+    "type": "ascension",
+    "cost": 2,
+    "Element": [
+      "Nature"
     ]
   },
   "ETH-AR-019-1": {
@@ -400,21 +508,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Xarnith",
-        "type": "Champion",
+        "name": {
+          "fr": "Xarnith - Apex sylvestre",
+          "en": "Xarnith - Sylvestre Apex"
+        },
+        "type": "champion",
         "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-019-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-019-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-019-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Xarnith",
-    "type": "Champion",
+    "name": {
+      "fr": "Xarnith - Apex sylvestre",
+      "en": "Xarnith - Sylvestre Apex"
+    },
+    "type": "champion",
     "cost": 0,
-    "Domain": [
-      "🌿 Nature"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Nature"
     ]
   },
   "ETH-AR-020-1": {
@@ -422,21 +536,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Xarnith",
-        "type": "Ascension",
-        "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-020-1.webp",
+        "name": {
+          "fr": "Xarnith - Fléau des saisons",
+          "en": "Xarnith - Scourge of the seasons"
+        },
+        "type": "ascension",
+        "cost": 2,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-020-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-020-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Xarnith",
-    "type": "Ascension",
-    "cost": 0,
-    "Domain": [
-      "🌿 Nature"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "name": {
+      "fr": "Xarnith - Fléau des saisons",
+      "en": "Xarnith - Scourge of the seasons"
+    },
+    "type": "ascension",
+    "cost": 2,
+    "Element": [
+      "Nature"
     ]
   },
   "ETH-AR-021-1": {
@@ -444,21 +564,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Xarnith",
-        "type": "Ascension",
-        "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-021-1.webp",
+        "name": {
+          "fr": "Xarnith - placeholder",
+          "en": "Xarnith - placeholder"
+        },
+        "type": "ascension",
+        "cost": 2,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-021-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-021-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Xarnith",
-    "type": "Ascension",
-    "cost": 0,
-    "Domain": [
-      "🌿 Nature"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "name": {
+      "fr": "Xarnith - placeholder",
+      "en": "Xarnith - placeholder"
+    },
+    "type": "ascension",
+    "cost": 2,
+    "Element": [
+      "Nature"
     ]
   },
   "ETH-AR-022-1": {
@@ -466,21 +592,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Yldan",
-        "type": "Champion",
+        "name": {
+          "fr": "Yldan - Coeur d'écorce",
+          "en": "Yldan - Bark Heart"
+        },
+        "type": "champion",
         "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-022-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-022-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-022-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Yldan",
-    "type": "Champion",
+    "name": {
+      "fr": "Yldan - Coeur d'écorce",
+      "en": "Yldan - Bark Heart"
+    },
+    "type": "champion",
     "cost": 0,
-    "Domain": [
-      "🌿 Nature"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Nature"
     ]
   },
   "ETH-AR-023-1": {
@@ -488,21 +620,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Yldan",
-        "type": "Ascension",
+        "name": {
+          "fr": "Yldan - placeholder",
+          "en": "Yldan - placeholder"
+        },
+        "type": "ascension",
         "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-023-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-023-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-023-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Yldan",
-    "type": "Ascension",
+    "name": {
+      "fr": "Yldan - placeholder",
+      "en": "Yldan - placeholder"
+    },
+    "type": "ascension",
     "cost": 0,
-    "Domain": [
-      "🌿 Nature"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Nature"
     ]
   },
   "ETH-AR-024-1": {
@@ -510,21 +648,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Yldan",
-        "type": "Ascension",
-        "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-024-1.webp",
+        "name": {
+          "fr": "Yldan - placeholder",
+          "en": "Yldan - placeholder"
+        },
+        "type": "ascension",
+        "cost": 2,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-024-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-024-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Yldan",
-    "type": "Ascension",
-    "cost": 0,
-    "Domain": [
-      "🌿 Nature"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "name": {
+      "fr": "Yldan - placeholder",
+      "en": "Yldan - placeholder"
+    },
+    "type": "ascension",
+    "cost": 2,
+    "Element": [
+      "Nature"
     ]
   },
   "ETH-AR-025-1": {
@@ -532,21 +676,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Stravox",
-        "type": "Champion",
-        "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-025-1.webp",
+        "name": {
+          "fr": "Stravox - Hurleur de foudre",
+          "en": "Stravox - Lightning Howler"
+        },
+        "type": "champion",
+        "cost": 1,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-025-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-025-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Stravox",
-    "type": "Champion",
-    "cost": 0,
-    "Domain": [
-      "⚡ Foudre"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "name": {
+      "fr": "Stravox - Hurleur de foudre",
+      "en": "Stravox - Lightning Howler"
+    },
+    "type": "champion",
+    "cost": 1,
+    "Element": [
+      "Foudre"
     ]
   },
   "ETH-AR-026-1": {
@@ -554,21 +704,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Stravox",
-        "type": "Ascension",
-        "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-026-1.webp",
+        "name": {
+          "fr": "Stravox - placeholder",
+          "en": "Stravox - placeholder"
+        },
+        "type": "ascension",
+        "cost": 2,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-026-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-026-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Stravox",
-    "type": "Ascension",
-    "cost": 0,
-    "Domain": [
-      "⚡ Foudre"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "name": {
+      "fr": "Stravox - placeholder",
+      "en": "Stravox - placeholder"
+    },
+    "type": "ascension",
+    "cost": 2,
+    "Element": [
+      "Foudre"
     ]
   },
   "ETH-AR-027-1": {
@@ -576,21 +732,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Stravox",
-        "type": "Ascension",
-        "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-027-1.webp",
+        "name": {
+          "fr": "Stravox - placeholder",
+          "en": "Stravox - placeholder"
+        },
+        "type": "ascension",
+        "cost": 2,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-027-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-027-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Stravox",
-    "type": "Ascension",
-    "cost": 0,
-    "Domain": [
-      "⚡ Foudre"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "name": {
+      "fr": "Stravox - placeholder",
+      "en": "Stravox - placeholder"
+    },
+    "type": "ascension",
+    "cost": 2,
+    "Element": [
+      "Foudre"
     ]
   },
   "ETH-AR-028-1": {
@@ -598,21 +760,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Agane",
-        "type": "Champion",
+        "name": {
+          "fr": "Agane - Indocile",
+          "en": "Agane - Untamed"
+        },
+        "type": "champion",
         "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-028-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-028-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-028-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Agane",
-    "type": "Champion",
+    "name": {
+      "fr": "Agane - Indocile",
+      "en": "Agane - Untamed"
+    },
+    "type": "champion",
     "cost": 0,
-    "Domain": [
-      "⚡ Foudre"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Foudre"
     ]
   },
   "ETH-AR-029-1": {
@@ -620,21 +788,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Agane",
-        "type": "Ascension",
-        "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-029-1.webp",
+        "name": {
+          "fr": "Agane - placeholder",
+          "en": "Agane - placeholder"
+        },
+        "type": "ascension",
+        "cost": 2,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-029-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-029-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Agane",
-    "type": "Ascension",
-    "cost": 0,
-    "Domain": [
-      "⚡ Foudre"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "name": {
+      "fr": "Agane - placeholder",
+      "en": "Agane - placeholder"
+    },
+    "type": "ascension",
+    "cost": 2,
+    "Element": [
+      "Foudre"
     ]
   },
   "ETH-AR-030-1": {
@@ -642,21 +816,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Agane",
-        "type": "Ascension",
-        "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-030-1.webp",
+        "name": {
+          "fr": "Agane - placeholder",
+          "en": "Agane - placeholder"
+        },
+        "type": "ascension",
+        "cost": 2,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-030-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-030-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Agane",
-    "type": "Ascension",
-    "cost": 0,
-    "Domain": [
-      "⚡ Foudre"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "name": {
+      "fr": "Agane - placeholder",
+      "en": "Agane - placeholder"
+    },
+    "type": "ascension",
+    "cost": 2,
+    "Element": [
+      "Foudre"
     ]
   },
   "ETH-AR-031-1": {
@@ -664,21 +844,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Sp4rk",
-        "type": "Champion",
-        "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-031-1.webp",
+        "name": {
+          "fr": "Sp4rk - Charge de terrain",
+          "en": "Sp4rk - Terrain Charge"
+        },
+        "type": "champion",
+        "cost": 1,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-031-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-031-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Sp4rk",
-    "type": "Champion",
-    "cost": 0,
-    "Domain": [
-      "⚡ Foudre"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "name": {
+      "fr": "Sp4rk - Charge de terrain",
+      "en": "Sp4rk - Terrain Charge"
+    },
+    "type": "champion",
+    "cost": 1,
+    "Element": [
+      "Foudre"
     ]
   },
   "ETH-AR-032-1": {
@@ -686,21 +872,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Sp4rk",
-        "type": "Ascension",
-        "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-032-1.webp",
+        "name": {
+          "fr": "Sp4rk - placeholder",
+          "en": "Sp4rk - placeholder"
+        },
+        "type": "ascension",
+        "cost": 1,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-032-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-032-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Sp4rk",
-    "type": "Ascension",
-    "cost": 0,
-    "Domain": [
-      "⚡ Foudre"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "name": {
+      "fr": "Sp4rk - placeholder",
+      "en": "Sp4rk - placeholder"
+    },
+    "type": "ascension",
+    "cost": 1,
+    "Element": [
+      "Foudre"
     ]
   },
   "ETH-AR-033-1": {
@@ -708,21 +900,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Sp4rk",
-        "type": "Ascension",
-        "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-033-1.webp",
+        "name": {
+          "fr": "Sp4rk - placeholder",
+          "en": "Sp4rk - placeholder"
+        },
+        "type": "ascension",
+        "cost": 2,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-033-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-033-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Sp4rk",
-    "type": "Ascension",
-    "cost": 0,
-    "Domain": [
-      "⚡ Foudre"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "name": {
+      "fr": "Sp4rk - placeholder",
+      "en": "Sp4rk - placeholder"
+    },
+    "type": "ascension",
+    "cost": 2,
+    "Element": [
+      "Foudre"
     ]
   },
   "ETH-AR-034-1": {
@@ -730,21 +928,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Orage Cérébral",
-        "type": "Reve",
+        "name": {
+          "fr": "Orage Cérébral",
+          "en": "Cerebral Storm"
+        },
+        "type": "rêve",
         "cost": 2,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-034-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-034-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-034-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Orage Cérébral",
-    "type": "Reve",
+    "name": {
+      "fr": "Orage Cérébral",
+      "en": "Cerebral Storm"
+    },
+    "type": "rêve",
     "cost": 2,
-    "Domain": [
-      "⚡ Foudre"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Foudre"
     ]
   },
   "ETH-AR-035-1": {
@@ -752,21 +956,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Chez le Glacier Photon",
-        "type": "Reve",
+        "name": {
+          "fr": "Chez le Glacier Photon",
+          "en": "At the Photon Glacier"
+        },
+        "type": "rêve",
         "cost": 2,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-035-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-035-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-035-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Chez le Glacier Photon",
-    "type": "Reve",
+    "name": {
+      "fr": "Chez le Glacier Photon",
+      "en": "At the Photon Glacier"
+    },
+    "type": "rêve",
     "cost": 2,
-    "Domain": [
-      "⚡ Foudre"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Foudre"
     ]
   },
   "ETH-AR-036-1": {
@@ -774,21 +984,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Source de Pérennité",
-        "type": "Reve",
+        "name": {
+          "fr": "Source de Pérennité",
+          "en": "Source of Perpetuity"
+        },
+        "type": "rêve",
         "cost": 2,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-036-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-036-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-036-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Source de Pérennité",
-    "type": "Reve",
+    "name": {
+      "fr": "Source de Pérennité",
+      "en": "Source of Perpetuity"
+    },
+    "type": "rêve",
     "cost": 2,
-    "Domain": [
-      "🌿 Nature"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Nature"
     ]
   },
   "ETH-AR-037-1": {
@@ -796,21 +1012,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Jardin de Printemps",
-        "type": "Reve",
+        "name": {
+          "fr": "Jardin de Printemps",
+          "en": "Spring Garden"
+        },
+        "type": "rêve",
         "cost": 2,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-037-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-037-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-037-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Jardin de Printemps",
-    "type": "Reve",
+    "name": {
+      "fr": "Jardin de Printemps",
+      "en": "Spring Garden"
+    },
+    "type": "rêve",
     "cost": 2,
-    "Domain": [
-      "🌿 Nature"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Nature"
     ]
   },
   "ETH-AR-038-1": {
@@ -818,21 +1040,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Croiser des Chemins",
-        "type": "Reve",
+        "name": {
+          "fr": "Croiser des Chemins",
+          "en": "Crossing Paths"
+        },
+        "type": "rêve",
         "cost": 2,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-038-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-038-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-038-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Croiser des Chemins",
-    "type": "Reve",
+    "name": {
+      "fr": "Croiser des Chemins",
+      "en": "Crossing Paths"
+    },
+    "type": "rêve",
     "cost": 2,
-    "Domain": [
-      "🔥 Feu"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Feu"
     ]
   },
   "ETH-AR-039-1": {
@@ -840,21 +1068,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Turbo charge",
-        "type": "Reve",
+        "name": {
+          "fr": "Turbo charge",
+          "en": "Turbo charge"
+        },
+        "type": "rêve",
         "cost": 2,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-039-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-039-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-039-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Turbo charge",
-    "type": "Reve",
+    "name": {
+      "fr": "Turbo charge",
+      "en": "Turbo charge"
+    },
+    "type": "rêve",
     "cost": 2,
-    "Domain": [
-      "🔥 Feu"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Feu"
     ]
   },
   "ETH-AR-040-1": {
@@ -862,21 +1096,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Passation Étincelle",
-        "type": "Reve",
+        "name": {
+          "fr": "Passation Étincelle",
+          "en": "Spark Transfer"
+        },
+        "type": "rêve",
         "cost": 2,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-040-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-040-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-040-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Passation Étincelle",
-    "type": "Reve",
+    "name": {
+      "fr": "Passation Étincelle",
+      "en": "Spark Transfer"
+    },
+    "type": "rêve",
     "cost": 2,
-    "Domain": [
-      "🔥 Feu"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Feu"
     ]
   },
   "ETH-AR-041-1": {
@@ -884,21 +1124,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Croissance Résonnante",
-        "type": "Reve",
+        "name": {
+          "fr": "Croissance Résonnante",
+          "en": "Resonant Growth"
+        },
+        "type": "rêve",
         "cost": 1,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-041-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-041-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-041-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Croissance Résonnante",
-    "type": "Reve",
+    "name": {
+      "fr": "Croissance Résonnante",
+      "en": "Resonant Growth"
+    },
+    "type": "rêve",
     "cost": 1,
-    "Domain": [
-      "🌿 Nature"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Nature"
     ]
   },
   "ETH-AR-042-1": {
@@ -906,21 +1152,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Serment du manque",
-        "type": "Reve",
+        "name": {
+          "fr": "Serment du manque",
+          "en": "Oath of Lack"
+        },
+        "type": "rêve",
         "cost": 2,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-042-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-042-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-042-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Serment du manque",
-    "type": "Reve",
+    "name": {
+      "fr": "Serment du manque",
+      "en": "Oath of Lack"
+    },
+    "type": "rêve",
     "cost": 2,
-    "Domain": [
-      "🔥 Feu"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Feu"
     ]
   },
   "ETH-AR-043-1": {
@@ -928,21 +1180,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Vigie Liquide",
-        "type": "Reve",
+        "name": {
+          "fr": "Vigie Liquide",
+          "en": "Liquid Lookout"
+        },
+        "type": "rêve",
         "cost": 1,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-043-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-043-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-043-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Vigie Liquide",
-    "type": "Reve",
+    "name": {
+      "fr": "Vigie Liquide",
+      "en": "Liquid Lookout"
+    },
+    "type": "rêve",
     "cost": 1,
-    "Domain": [
-      "💧 Eau"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Eau"
     ]
   },
   "ETH-AR-044-1": {
@@ -950,21 +1208,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Arba-Tempête",
-        "type": "Reve",
+        "name": {
+          "fr": "Arba-Tempête",
+          "en": "Arba-Tempest"
+        },
+        "type": "rêve",
         "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-044-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-044-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-044-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Arba-Tempête",
-    "type": "Reve",
+    "name": {
+      "fr": "Arba-Tempête",
+      "en": "Arba-Tempest"
+    },
+    "type": "rêve",
     "cost": 0,
-    "Domain": [
-      "⚡ Foudre"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Foudre"
     ]
   },
   "ETH-AR-045-1": {
@@ -972,21 +1236,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Acclimateur du lac",
-        "type": "Reve",
+        "name": {
+          "fr": "Acclimateur du lac",
+          "en": "Lake Acclimator"
+        },
+        "type": "rêve",
         "cost": 1,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-045-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-045-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-045-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Acclimateur du lac",
-    "type": "Reve",
+    "name": {
+      "fr": "Acclimateur du lac",
+      "en": "Lake Acclimator"
+    },
+    "type": "rêve",
     "cost": 1,
-    "Domain": [
-      "💧 Eau"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Eau"
     ]
   },
   "ETH-AR-046-1": {
@@ -994,21 +1264,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ruée Ardente",
-        "type": "Reve",
+        "name": {
+          "fr": "Ruée Ardente",
+          "en": "Ardent Rush"
+        },
+        "type": "rêve",
         "cost": 1,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-046-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-046-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-046-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Ruée Ardente",
-    "type": "Reve",
+    "name": {
+      "fr": "Ruée Ardente",
+      "en": "Ardent Rush"
+    },
+    "type": "rêve",
     "cost": 1,
-    "Domain": [
-      "🔥 Feu"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Feu"
     ]
   },
   "ETH-AR-047-1": {
@@ -1016,21 +1292,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Retrait Automnal",
-        "type": "Reve",
+        "name": {
+          "fr": "Retrait Automnal",
+          "en": "Autumnal Retreat"
+        },
+        "type": "rêve",
         "cost": 1,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-047-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-047-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-047-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Retrait Automnal",
-    "type": "Reve",
+    "name": {
+      "fr": "Retrait Automnal",
+      "en": "Autumnal Retreat"
+    },
+    "type": "rêve",
     "cost": 1,
-    "Domain": [
-      "🌿 Nature"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Nature"
     ]
   },
   "ETH-AR-048-1": {
@@ -1038,21 +1320,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Regain de braise",
-        "type": "Reve",
+        "name": {
+          "fr": "Regain de braise",
+          "en": "Ember Regain"
+        },
+        "type": "rêve",
         "cost": 2,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-048-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-048-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-048-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Regain de braise",
-    "type": "Reve",
+    "name": {
+      "fr": "Regain de braise",
+      "en": "Ember Regain"
+    },
+    "type": "rêve",
     "cost": 2,
-    "Domain": [
-      "🔥 Feu"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Feu"
     ]
   },
   "ETH-AR-050-1": {
@@ -1060,21 +1348,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Voyant Foudroyer",
-        "type": "Invocation",
+        "name": {
+          "fr": "Voyant Foudroyer",
+          "en": "Lightning Seer"
+        },
+        "type": "invocation",
         "cost": 2,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-050-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-050-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-050-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Voyant Foudroyer",
-    "type": "Invocation",
+    "name": {
+      "fr": "Voyant Foudroyer",
+      "en": "Lightning Seer"
+    },
+    "type": "invocation",
     "cost": 2,
-    "Domain": [
-      "⚡ Foudre"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Foudre"
     ]
   },
   "ETH-AR-051-1": {
@@ -1082,21 +1376,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Foyer Instable",
-        "type": "Invocation",
+        "name": {
+          "fr": "Foyer Instable",
+          "en": "Unstable Hearth"
+        },
+        "type": "invocation",
         "cost": 1,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-051-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-051-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-051-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Foyer Instable",
-    "type": "Invocation",
+    "name": {
+      "fr": "Foyer Instable",
+      "en": "Unstable Hearth"
+    },
+    "type": "invocation",
     "cost": 1,
-    "Domain": [
-      "🔥 Feu"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Feu"
     ]
   },
   "ETH-AR-052-1": {
@@ -1104,21 +1404,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Flowee",
-        "type": "Invocation",
+        "name": {
+          "fr": "Flowee",
+          "en": "Flowee"
+        },
+        "type": "invocation",
         "cost": 1,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-052-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-052-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-052-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Flowee",
-    "type": "Invocation",
+    "name": {
+      "fr": "Flowee",
+      "en": "Flowee"
+    },
+    "type": "invocation",
     "cost": 1,
-    "Domain": [
-      "💧 Eau"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Eau"
     ]
   },
   "ETH-AR-053-1": {
@@ -1126,21 +1432,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Sparkee",
-        "type": "Invocation",
+        "name": {
+          "fr": "Sparkee",
+          "en": "Sparkee"
+        },
+        "type": "invocation",
         "cost": 1,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-053-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-053-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-053-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Sparkee",
-    "type": "Invocation",
+    "name": {
+      "fr": "Sparkee",
+      "en": "Sparkee"
+    },
+    "type": "invocation",
     "cost": 1,
-    "Domain": [
-      "⚡ Foudre"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Foudre"
     ]
   },
   "ETH-AR-054-1": {
@@ -1148,21 +1460,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Crystal de cendre",
-        "type": "Invocation",
+        "name": {
+          "fr": "Crystal de cendre",
+          "en": "Ash Crystal"
+        },
+        "type": "invocation",
         "cost": 1,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-054-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-054-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-054-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Crystal de cendre",
-    "type": "Invocation",
+    "name": {
+      "fr": "Crystal de cendre",
+      "en": "Ash Crystal"
+    },
+    "type": "invocation",
     "cost": 1,
-    "Domain": [
-      "🔥 Feu"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Feu"
     ]
   },
   "ETH-AR-055-1": {
@@ -1170,21 +1488,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ondelithe",
-        "type": "Invocation",
+        "name": {
+          "fr": "Ondelithe",
+          "en": "Ondelithe"
+        },
+        "type": "invocation",
         "cost": 1,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-055-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-055-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-055-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Ondelithe",
-    "type": "Invocation",
+    "name": {
+      "fr": "Ondelithe",
+      "en": "Ondelithe"
+    },
+    "type": "invocation",
     "cost": 1,
-    "Domain": [
-      "💧 Eau"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Eau"
     ]
   },
   "ETH-AR-056-1": {
@@ -1192,21 +1516,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Glimar",
-        "type": "Invocation",
+        "name": {
+          "fr": "Glimar",
+          "en": "Glimar"
+        },
+        "type": "invocation",
         "cost": 1,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-056-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-056-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-056-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Glimar",
-    "type": "Invocation",
+    "name": {
+      "fr": "Glimar",
+      "en": "Glimar"
+    },
+    "type": "invocation",
     "cost": 1,
-    "Domain": [
-      "🌿 Nature"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Nature"
     ]
   },
   "ETH-AR-057-1": {
@@ -1214,21 +1544,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Transe méditative",
-        "type": "Sort",
+        "name": {
+          "fr": "Transe méditative",
+          "en": "Trance Meditation"
+        },
+        "type": "sort",
         "cost": 3,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-057-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-057-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-057-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Transe méditative",
-    "type": "Sort",
+    "name": {
+      "fr": "Transe méditative",
+      "en": "Trance Meditation"
+    },
+    "type": "sort",
     "cost": 3,
-    "Domain": [
-      "🌿 Nature"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Nature"
     ]
   },
   "ETH-AR-058-1": {
@@ -1236,21 +1572,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Croissance partagé",
-        "type": "Sort",
+        "name": {
+          "fr": "Croissance partagé",
+          "en": "Shared Growth"
+        },
+        "type": "sort",
         "cost": 4,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-058-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-058-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-058-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Croissance partagé",
-    "type": "Sort",
+    "name": {
+      "fr": "Croissance partagé",
+      "en": "Shared Growth"
+    },
+    "type": "sort",
     "cost": 4,
-    "Domain": [
-      "🌿 Nature"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Nature"
     ]
   },
   "ETH-AR-059-1": {
@@ -1258,21 +1600,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Repousse simple",
-        "type": "Sort",
+        "name": {
+          "fr": "Repousse simple",
+          "en": "Simple Repulsion"
+        },
+        "type": "sort",
         "cost": 1,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-059-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-059-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-059-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Repousse simple",
-    "type": "Sort",
+    "name": {
+      "fr": "Repousse simple",
+      "en": "Simple Repulsion"
+    },
+    "type": "sort",
     "cost": 1,
-    "Domain": [
-      "🌿 Nature"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Nature"
     ]
   },
   "ETH-AR-060-1": {
@@ -1280,21 +1628,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Flash",
-        "type": "Sort",
+        "name": {
+          "fr": "Flash",
+          "en": "Flash"
+        },
+        "type": "sort",
         "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-060-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-060-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-060-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Flash",
-    "type": "Sort",
+    "name": {
+      "fr": "Flash",
+      "en": "Flash"
+    },
+    "type": "sort",
     "cost": 0,
-    "Domain": [
-      "⚡ Foudre"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Foudre"
     ]
   },
   "ETH-AR-061-1": {
@@ -1302,21 +1656,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Appel de la source",
-        "type": "Sort",
+        "name": {
+          "fr": "Appel de la source",
+          "en": "Call of the source"
+        },
+        "type": "sort",
         "cost": 2,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-061-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-061-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-061-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Appel de la source",
-    "type": "Sort",
+    "name": {
+      "fr": "Appel de la source",
+      "en": "Call of the source"
+    },
+    "type": "sort",
     "cost": 2,
-    "Domain": [
-      "💧 Eau"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Eau"
     ]
   },
   "ETH-AR-062-1": {
@@ -1324,21 +1684,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Premonition",
-        "type": "Sort",
+        "name": {
+          "fr": "Premonition",
+          "en": "Premonition"
+        },
+        "type": "sort",
         "cost": 2,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-062-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-062-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-062-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Premonition",
-    "type": "Sort",
+    "name": {
+      "fr": "Premonition",
+      "en": "Premonition"
+    },
+    "type": "sort",
     "cost": 2,
-    "Domain": [
-      "💧 Eau"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Eau"
     ]
   },
   "ETH-AR-063-1": {
@@ -1346,21 +1712,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "L'entrainement mène à la perfection",
-        "type": "Sort",
+        "name": {
+          "fr": "L'entrainement mène à la perfection",
+          "en": "Training leads to perfection"
+        },
+        "type": "sort",
         "cost": 2,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-063-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-063-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-063-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "L'entrainement mène à la perfection",
-    "type": "Sort",
+    "name": {
+      "fr": "L'entrainement mène à la perfection",
+      "en": "Training leads to perfection"
+    },
+    "type": "sort",
     "cost": 2,
-    "Domain": [
-      "🌿 Nature"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Nature"
     ]
   },
   "ETH-AR-064-1": {
@@ -1368,21 +1740,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Brins de vie ",
-        "type": "Sort",
+        "name": {
+          "fr": "Brins de vie",
+          "en": "Strands of life"
+        },
+        "type": "sort",
         "cost": 1,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-064-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-064-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-064-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Brins de vie ",
-    "type": "Sort",
+    "name": {
+      "fr": "Brins de vie",
+      "en": "Strands of life"
+    },
+    "type": "sort",
     "cost": 1,
-    "Domain": [
-      "🌿 Nature"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Nature"
     ]
   },
   "ETH-AR-065-1": {
@@ -1390,21 +1768,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Cycle Sylvestre",
-        "type": "Sort",
+        "name": {
+          "fr": "Cycle Sylvestre",
+          "en": "Sylvestre Cycle"
+        },
+        "type": "sort",
         "cost": 2,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-065-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-065-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-065-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Cycle Sylvestre",
-    "type": "Sort",
+    "name": {
+      "fr": "Cycle Sylvestre",
+      "en": "Sylvestre Cycle"
+    },
+    "type": "sort",
     "cost": 2,
-    "Domain": [
-      "🌿 Nature"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Nature"
     ]
   },
   "ETH-AR-066-1": {
@@ -1412,21 +1796,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Boost ciblé",
-        "type": "Sort",
+        "name": {
+          "fr": "Boost ciblé",
+          "en": "Targeted Boost"
+        },
+        "type": "sort",
         "cost": 1,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-066-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-066-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-066-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Boost ciblé",
-    "type": "Sort",
+    "name": {
+      "fr": "Boost ciblé",
+      "en": "Targeted Boost"
+    },
+    "type": "sort",
     "cost": 1,
-    "Domain": [
-      "🔥 Feu"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Feu"
     ]
   },
   "ETH-AR-067-1": {
@@ -1434,21 +1824,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Retard calculé",
-        "type": "Sort",
+        "name": {
+          "fr": "Retard calculé",
+          "en": "Calculated Delay"
+        },
+        "type": "sort",
         "cost": 1,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-067-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-067-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-067-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Retard calculé",
-    "type": "Sort",
+    "name": {
+      "fr": "Retard calculé",
+      "en": "Calculated Delay"
+    },
+    "type": "sort",
     "cost": 1,
-    "Domain": [
-      "🔥 Feu"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Feu"
     ]
   },
   "ETH-AR-068-1": {
@@ -1456,21 +1852,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rituel du Brasier",
-        "type": "Sort",
+        "name": {
+          "fr": "Rituel du Brasier",
+          "en": "Ritual of the Brazier"
+        },
+        "type": "sort",
         "cost": 6,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-068-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-068-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-068-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Rituel du Brasier",
-    "type": "Sort",
+    "name": {
+      "fr": "Rituel du Brasier",
+      "en": "Ritual of the Brazier"
+    },
+    "type": "sort",
     "cost": 6,
-    "Domain": [
-      "🔥 Feu"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Feu"
     ]
   },
   "ETH-AR-069-1": {
@@ -1478,21 +1880,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Éveil Ardent",
-        "type": "Sort",
+        "name": {
+          "fr": "Éveil Ardent",
+          "en": "Ardent Awakening"
+        },
+        "type": "sort",
         "cost": 1,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-069-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-069-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-069-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Éveil Ardent",
-    "type": "Sort",
+    "name": {
+      "fr": "Éveil Ardent",
+      "en": "Ardent Awakening"
+    },
+    "type": "sort",
     "cost": 1,
-    "Domain": [
-      "🔥 Feu"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Feu"
     ]
   },
   "ETH-AR-070-1": {
@@ -1500,21 +1908,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Étincelle Persistante",
-        "type": "Sort",
+        "name": {
+          "fr": "Étincelle Persistante",
+          "en": "Persistent Spark"
+        },
+        "type": "sort",
         "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-070-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-070-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-070-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Étincelle Persistante",
-    "type": "Sort",
+    "name": {
+      "fr": "Étincelle Persistante",
+      "en": "Persistent Spark"
+    },
+    "type": "sort",
     "cost": 0,
-    "Domain": [
-      "🔥 Feu"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Feu"
     ]
   },
   "ETH-AR-072-1": {
@@ -1522,21 +1936,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Avancement",
-        "type": "Sort",
+        "name": {
+          "fr": "Avancement",
+          "en": "Advancement"
+        },
+        "type": "sort",
         "cost": 1,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-072-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-072-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-072-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Avancement",
-    "type": "Sort",
+    "name": {
+      "fr": "Avancement",
+      "en": "Advancement"
+    },
+    "type": "sort",
     "cost": 1,
-    "Domain": [
-      "⚡ Foudre"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Foudre"
     ]
   },
   "ETH-AR-073-1": {
@@ -1544,21 +1964,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Embrasement Intrusif",
-        "type": "Sort",
+        "name": {
+          "fr": "Embrasement Intrusif",
+          "en": "Intrusive Blaze"
+        },
+        "type": "sort",
         "cost": 2,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-073-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-073-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-073-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Embrasement Intrusif",
-    "type": "Sort",
+    "name": {
+      "fr": "Embrasement Intrusif",
+      "en": "Intrusive Blaze"
+    },
+    "type": "sort",
     "cost": 2,
-    "Domain": [
-      "🔥 Feu"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Feu"
     ]
   },
   "ETH-AR-074-1": {
@@ -1566,21 +1992,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Prolifération",
-        "type": "Sort",
+        "name": {
+          "fr": "Prolifération",
+          "en": "Proliferation"
+        },
+        "type": "sort",
         "cost": 1,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-074-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-074-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-074-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Prolifération",
-    "type": "Sort",
+    "name": {
+      "fr": "Prolifération",
+      "en": "Proliferation"
+    },
+    "type": "sort",
     "cost": 1,
-    "Domain": [
-      "🌿 Nature"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Nature"
     ]
   },
   "ETH-AR-075-1": {
@@ -1588,21 +2020,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Limpidité",
-        "type": "Sort",
+        "name": {
+          "fr": "Limpidité",
+          "en": "Limpidity"
+        },
+        "type": "sort",
         "cost": 1,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-075-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-075-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-075-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Limpidité",
-    "type": "Sort",
+    "name": {
+      "fr": "Limpidité",
+      "en": "Limpidity"
+    },
+    "type": "sort",
     "cost": 1,
-    "Domain": [
-      "💧 Eau"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Eau"
     ]
   },
   "ETH-AR-076-1": {
@@ -1610,21 +2048,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Tension Ondulante",
-        "type": "Sort",
+        "name": {
+          "fr": "Tension Ondulante",
+          "en": "Undulating Tension"
+        },
+        "type": "sort",
         "cost": 1,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-076-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-076-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-076-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Tension Ondulante",
-    "type": "Sort",
+    "name": {
+      "fr": "Tension Ondulante",
+      "en": "Undulating Tension"
+    },
+    "type": "sort",
     "cost": 1,
-    "Domain": [
-      "💧 Eau"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Eau"
     ]
   },
   "ETH-AR-077-1": {
@@ -1632,21 +2076,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Combustion Instinctive",
-        "type": "Sort",
+        "name": {
+          "fr": "Combustion Instinctive",
+          "en": "Instinctive Combustion"
+        },
+        "type": "sort",
         "cost": 3,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-077-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-077-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-077-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Combustion Instinctive",
-    "type": "Sort",
+    "name": {
+      "fr": "Combustion Instinctive",
+      "en": "Instinctive Combustion"
+    },
+    "type": "sort",
     "cost": 3,
-    "Domain": [
-      "🔥 Feu"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Feu"
     ]
   },
   "ETH-AR-078-1": {
@@ -1654,21 +2104,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Murmure des feuilles",
-        "type": "Sort",
+        "name": {
+          "fr": "Murmure des feuilles",
+          "en": "Whisper of the leaves"
+        },
+        "type": "sort",
         "cost": 2,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-078-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-078-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-078-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Murmure des feuilles",
-    "type": "Sort",
+    "name": {
+      "fr": "Murmure des feuilles",
+      "en": "Whisper of the leaves"
+    },
+    "type": "sort",
     "cost": 2,
-    "Domain": [
-      "🌿 Nature"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Nature"
     ]
   },
   "ETH-AR-079-1": {
@@ -1676,21 +2132,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Contre courant",
-        "type": "Sort",
+        "name": {
+          "fr": "Contre courant",
+          "en": "Counter current"
+        },
+        "type": "sort",
         "cost": 2,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-079-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-079-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-079-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Contre courant",
-    "type": "Sort",
+    "name": {
+      "fr": "Contre courant",
+      "en": "Counter current"
+    },
+    "type": "sort",
     "cost": 2,
-    "Domain": [
-      "⚡ Foudre"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Foudre"
     ]
   },
   "ETH-AR-080-1": {
@@ -1698,21 +2160,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Copie éclair",
-        "type": "Sort",
+        "name": {
+          "fr": "Copie éclair",
+          "en": "Lightning copy"
+        },
+        "type": "sort",
         "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-080-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-080-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-080-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Copie éclair",
-    "type": "Sort",
+    "name": {
+      "fr": "Copie éclair",
+      "en": "Lightning copy"
+    },
+    "type": "sort",
     "cost": 0,
-    "Domain": [
-      "⚡ Foudre"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Foudre"
     ]
   },
   "ETH-AR-081-1": {
@@ -1720,21 +2188,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Courant unique",
-        "type": "Sort",
+        "name": {
+          "fr": "Courant unique",
+          "en": "Unique current"
+        },
+        "type": "sort",
         "cost": 1,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-081-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-081-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-081-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Courant unique",
-    "type": "Sort",
+    "name": {
+      "fr": "Courant unique",
+      "en": "Unique current"
+    },
+    "type": "sort",
     "cost": 1,
-    "Domain": [
-      "💧 Eau"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Eau"
     ]
   },
   "ETH-AR-082-1": {
@@ -1742,21 +2216,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Virvolte Ardente",
-        "type": "Sort",
+        "name": {
+          "fr": "Virvolte Ardente",
+          "en": "Burning Whirl"
+        },
+        "type": "sort",
         "cost": 1,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-082-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-082-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-082-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Virvolte Ardente",
-    "type": "Sort",
+    "name": {
+      "fr": "Virvolte Ardente",
+      "en": "Burning Whirl"
+    },
+    "type": "sort",
     "cost": 1,
-    "Domain": [
-      "🔥 Feu"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Feu"
     ]
   },
   "ETH-AR-083-1": {
@@ -1764,21 +2244,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ether Eau",
-        "type": "Ether",
+        "name": {
+          "fr": "Ether d'Eau",
+          "en": "Ether of Water"
+        },
+        "type": "ether",
         "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-083-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-083-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-083-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Ether Eau",
-    "type": "Ether",
+    "name": {
+      "fr": "Ether d'Eau",
+      "en": "Ether of Water"
+    },
+    "type": "ether",
     "cost": 0,
-    "Domain": [
-      "💧 Eau"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Eau"
     ]
   },
   "ETH-AR-084-1": {
@@ -1786,21 +2272,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ether Nature",
-        "type": "Ether",
+        "name": {
+          "fr": "Ether de Nature",
+          "en": "Ether of Nature"
+        },
+        "type": "ether",
         "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-084-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-084-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-084-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Ether Nature",
-    "type": "Ether",
+    "name": {
+      "fr": "Ether de Nature",
+      "en": "Ether of Nature"
+    },
+    "type": "ether",
     "cost": 0,
-    "Domain": [
-      "🌿 Nature"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Nature"
     ]
   },
   "ETH-AR-085-1": {
@@ -1808,21 +2300,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ether Foudre",
-        "type": "Ether",
+        "name": {
+          "fr": "Ether de Foudre",
+          "en": "Ether of Lightning"
+        },
+        "type": "ether",
         "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-085-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-085-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-085-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Ether Foudre",
-    "type": "Ether",
+    "name": {
+      "fr": "Ether de Foudre",
+      "en": "Ether of Lightning"
+    },
+    "type": "ether",
     "cost": 0,
-    "Domain": [
-      "⚡ Foudre"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Foudre"
     ]
   },
   "ETH-AR-086-1": {
@@ -1830,21 +2328,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ether Feu",
-        "type": "Ether",
+        "name": {
+          "fr": "Ether de Feu",
+          "en": "Ether of Fire"
+        },
+        "type": "ether",
         "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-086-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-086-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-086-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "Ether Feu",
-    "type": "Ether",
+    "name": {
+      "fr": "Ether de Feu",
+      "en": "Ether of Fire"
+    },
+    "type": "ether",
     "cost": 0,
-    "Domain": [
-      "🔥 Feu"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Feu"
     ]
   },
   "ETH-AR-087-1": {
@@ -1852,21 +2356,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "",
-        "type": "Reve",
+        "name": {
+          "fr": "Pluie Électrisante",
+          "en": "Electrifying Rain"
+        },
+        "type": "rêve",
         "cost": 2,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-087-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-087-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-087-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "",
-    "type": "Reve",
+    "name": {
+      "fr": "Pluie Électrisante",
+      "en": "Electrifying Rain"
+    },
+    "type": "rêve",
     "cost": 2,
-    "Domain": [
-      "⚡ Foudre"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Foudre"
     ]
   },
   "ETH-AR-088-1": {
@@ -1874,21 +2384,27 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "",
-        "type": "Reve",
+        "name": {
+          "fr": "Racines Originelles",
+          "en": "Original Roots"
+        },
+        "type": "rêve",
         "cost": 0,
-        "image": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-088-1.webp",
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-088-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-088-1.webp"
+        },
         "isHorizontal": false
       }
     },
-    "name": "",
-    "type": "Reve",
+    "name": {
+      "fr": "Racines Originelles",
+      "en": "Original Roots"
+    },
+    "type": "rêve",
     "cost": 0,
-    "Domain": [
-      "🌿 Nature"
-    ],
-    "Set": [
-      "01 - Aube Radieuse"
+    "Element": [
+      "Nature"
     ]
   }
 }
