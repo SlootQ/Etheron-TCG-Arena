@@ -26,9 +26,7 @@
     "mainFilters": [
       "type",
       "cost",
-      "name",
-      "Domain",
-      "Set"
+      "Element"
     ],
     "formats": [
       {
