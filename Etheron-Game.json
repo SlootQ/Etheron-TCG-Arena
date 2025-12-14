@@ -12,7 +12,7 @@
     ],
     "decksUrl": "https://slootq.github.io/Etheron-TCG-Arena/Etheron-Decks.json"
   },
-  "customHelp": "Début de partie :\n- Placez 1 carte Champion correspondant à chaque catégorie (Champion1, Champion2, Champion3) sur les sections Champion 1, 2 et 3.\n- Placez 3 cartes d'Éther de base (catégorie EtherBase) dans la zone Éthers.\n- Piochez 4 cartes en main. Vous pouvez effectuer un mulligan une fois.\n\nRappels d'utilisation de TCG Arena :\n- Les sorts se jouent depuis la main vers la Pile (Stack), puis vont au Cimetière.\n- Les Éthers sont inclinés pour payer les coûts mais restent en jeu.\n- Utilisez les compteurs pour suivre les PV de vos Champions (10 au départ chacun).",
+  "customHelp": "translations.customHelp",
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://slootq.github.io/Etheron-TCG-Arena/Etheron-CardList.json",
@@ -44,7 +44,7 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "Piochez manuellement 4 cartes. Vous pouvez faire un mulligan une fois en remélangeant n'importe quelles cartes de votre main dans le deck puis en repiochant autant.",
+        "info": "translations.mulliganInfo",
         "startingHandSize": 4,
         "drawNewSelectedCards": true
       },
