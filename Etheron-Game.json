@@ -11,7 +11,7 @@
     ],
     "decksUrl": "https://slootq.github.io/Etheron-TCG-Arena/Etheron-Decks.json"
   },
-  "customHelp": "translations.customHelp",
+  "customHelp": "Pour accéder au guide du jeu rendez-vous ici : https://app.etheron.fr/rulebook",
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://slootq.github.io/Etheron-TCG-Arena/Etheron-CardList.json",
@@ -43,9 +43,13 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "translations.mulliganInfo",
-        "startingHandSize": 4,
-        "drawNewSelectedCards": true
+                "info": "Choose up to 4 cards to Recycle, then manually draw that many.",
+                "startingHandSize": 4,
+                "drawNewHand": false,
+                "putSelectionAtBottom": true,
+                "drawNewSelectedCards": false,
+                "triggeredByButton": true,
+                "_NO_SHUFFLE": true
       },
       "newTurn": {
         "drawOnStart": false,
