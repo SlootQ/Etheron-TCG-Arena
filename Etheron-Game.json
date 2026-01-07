@@ -52,7 +52,7 @@
       },
       "newTurn": {
         "drawOnStart": false,
-        "sharedTurn": false,
+        "sharedTurn": true,
         "firstPlayerTokenName": "Premier Joueur",
         "drawPerTurn": "2"
       },
