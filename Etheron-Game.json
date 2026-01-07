@@ -19,8 +19,7 @@
     "cardBackColor": "#161E42",
     "extraCardBacks": {
       "Sideboard": "https://slootq.github.io/Etheron-TCG-Arena/Images/cardBack-black.png"
-    },
-    "translationsUrl": "https://slootq.github.io/Etheron-TCG-Arena/Translations.json"
+    }
   },
   "deckBuilding": {
     "mainFilters": [
