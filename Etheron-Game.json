@@ -15,10 +15,10 @@
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://slootq.github.io/Etheron-TCG-Arena/Etheron-CardList.json",
-    "cardBack": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-BACK-MAIN-1.webp",
+    "cardBack": "Images/cardBack-white.png",
     "cardBackColor": "#161E42",
     "extraCardBacks": {
-      "Sideboard": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-BACK-VOID-1.webp"
+      "Sideboard": "Images/cardBack-black.png"
     },
     "translationsUrl": "https://slootq.github.io/Etheron-TCG-Arena/Translations.json"
   },
