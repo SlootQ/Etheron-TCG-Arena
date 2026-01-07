@@ -46,7 +46,6 @@
       "Reve": [
         { "count": 3, "id": "ETH-AR-034-1" },
 	{ "count": 2, "id": "ETH-AR-035-1" },
-	{ "count": 1, "id": "ETH-AR-044-1" },
 	{ "count": 2, "id": "ETH-AR-087-1" }
       ],
       "Sort": [
@@ -55,7 +54,8 @@
 	{ "count": 3, "id": "ETH-AR-080-1" }
       ],
 		      "Sideboard": [
- 	{ "count": 1, "id": "ETH-AR-053-1" }
+ 	{ "count": 1, "id": "ETH-AR-053-1" },
+	{ "count": 1, "id": "ETH-AR-044-1" }
       ]
     }
   },
