@@ -58,7 +58,6 @@
       },
       "tokens": [],
       "countersStartingValues": [10, 10, 10],
-      "isSymetricalForOpponents": false,
       "defaultNotes": "Utilisez les 3 compteurs pour suivre les points de vie de vos 3 Champions (0 à 10).",
       "hideFacedDownCards": false,
       "draggableTokens": [
@@ -90,7 +89,7 @@
     "content": [
       {
         "direction": "row",
-        "isSymetricalForOpponents": false,
+        "isSymetricalForOpponents": true,
         "content": [
           { "section": "Reve", "style": { "width": "7%" } },
           { "section": "Invocations", "style": { "width": "28%" } },
