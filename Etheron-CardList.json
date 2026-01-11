@@ -2276,7 +2276,7 @@
           "fr": "Ether de Nature",
           "en": "Ether of Nature"
         },
-        "type": "ether",
+        "type": "Ether",
         "cost": 0,
         "image": {
           "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-084-1.webp",
@@ -2289,7 +2289,7 @@
       "fr": "Ether de Nature",
       "en": "Ether of Nature"
     },
-    "type": "ether",
+    "type": "Ether",
     "cost": 0,
     "Element": [
       "Nature"
@@ -2304,7 +2304,7 @@
           "fr": "Ether de Foudre",
           "en": "Ether of Lightning"
         },
-        "type": "ether",
+        "type": "Ether",
         "cost": 0,
         "image": {
           "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-085-1.webp",
@@ -2317,7 +2317,7 @@
       "fr": "Ether de Foudre",
       "en": "Ether of Lightning"
     },
-    "type": "ether",
+    "type": "Ether",
     "cost": 0,
     "Element": [
       "Foudre"
@@ -2345,7 +2345,7 @@
       "fr": "Ether de Feu",
       "en": "Ether of Fire"
     },
-    "type": "ether",
+    "type": "Ether",
     "cost": 0,
     "Element": [
       "Feu"
