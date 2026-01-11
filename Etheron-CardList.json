@@ -2345,7 +2345,7 @@
       "fr": "Ether de Feu",
       "en": "Ether of Fire"
     },
-    "type": "ether",
+    "type": "Ether",
     "cost": 0,
     "Element": [
       "Feu"
