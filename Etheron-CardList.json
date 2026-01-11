@@ -2248,7 +2248,7 @@
           "fr": "Ether d'Eau",
           "en": "Ether of Water"
         },
-        "type": "ether",
+        "type": "Ether",
         "cost": 0,
         "image": {
           "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-083-1.webp",
@@ -2261,7 +2261,7 @@
       "fr": "Ether d'Eau",
       "en": "Ether of Water"
     },
-    "type": "ether",
+    "type": "Ether",
     "cost": 0,
     "Element": [
       "Eau"
