@@ -2332,7 +2332,7 @@
           "fr": "Ether de Feu",
           "en": "Ether of Fire"
         },
-        "type": "ether",
+        "type": "Ether",
         "cost": 0,
         "image": {
           "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-086-1.webp",
@@ -2345,7 +2345,7 @@
       "fr": "Ether de Feu",
       "en": "Ether of Fire"
     },
-    "type": "Ether",
+    "type": "ether",
     "cost": 0,
     "Element": [
       "Feu"
