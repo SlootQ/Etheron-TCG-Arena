@@ -100,7 +100,7 @@
       },
       {
         "direction": "row",
-        "isSymetricalForOpponents": false,
+        "isSymetricalForOpponents": true,
         "content": [
           { "section": "Sideboard", "style": { "width": "8%" } },
           { "section": "Ether", "style": { "width": "28%" } },
