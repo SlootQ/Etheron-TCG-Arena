@@ -160,7 +160,7 @@
     },
     "Champion1": {
       "title": "Champion1",
-      "isHidden": "yes",
+      "isHidden": "no",
       "height": "MEDIUM",
       "alignment": "CENTER",
       "isHorizontalAllowed": true,
@@ -187,7 +187,7 @@
     },
     "Champion2": {
       "title": "Champion2",
-      "isHidden": "yes",
+      "isHidden": "no",
       "height": "MEDIUM",
       "alignment": "CENTER",
       "isHorizontalAllowed": true,
@@ -214,7 +214,7 @@
     },
     "Champion3": {
       "title": "Champion3",
-      "isHidden": "yes",
+      "isHidden": "no",
       "height": "MEDIUM",
       "alignment": "CENTER",
       "isHorizontalAllowed": true,
@@ -275,7 +275,7 @@
     },
     "Sideboard": {
       "title": "Sideboard",
-      "isHidden": "no",
+      "isHidden": "yes",
       "height": "SMALL",
       "alignment": "DECK",
       "isHorizontalAllowed": false,
