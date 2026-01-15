@@ -11,7 +11,7 @@
     ],
     "decksUrl": "https://slootq.github.io/Etheron-TCG-Arena/Etheron-Decks.json"
   },
-  "customHelp": "Règles du jeu/Quick RuleBook : https://app.etheron.fr/rulebook&nbsp;YouTube Channel : https://www.youtube.com/@etherontcg/videos&nbsp;How to play Etheron on TCG Arena : https://youtu.be/xiv0Hn1bm94",
+  "customHelp": "Règles du jeu/Quick RuleBook : https://app.etheron.fr/rulebook &nbsp; YouTube Channel : https://www.youtube.com/@etherontcg/videos &nbsp; How to play Etheron on TCG Arena : https://youtu.be/xiv0Hn1bm94",
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://slootq.github.io/Etheron-TCG-Arena/Etheron-CardList.json",
