@@ -2416,7 +2416,7 @@
           "fr": "Appolite - Mirage des profondeurs",
           "en": "Appolite - Mirage of the depths"
         },
-        "type": "ascension",
+        "type": "sort",
         "cost": 0,
         "image": {
           "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-092-1.webp",
@@ -2429,7 +2429,7 @@
          "fr": "Appolite - Mirage des profondeurs",
          "en": "Appolite - Mirage of the depths"
     },
-    "type": "ascension",
+    "type": "sort",
     "cost": 0,
     "Element": [
       "Eau"
