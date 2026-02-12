@@ -2406,5 +2406,202 @@
     "Element": [
       "Nature"
     ]
+  },
+    "ETH-AR-092-1": {
+    "id": "ETH-AR-092-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "fr": "Appolite - Mirage des profondeurs",
+          "en": "Appolite - Mirage of the depths"
+        },
+        "type": "ascension",
+        "cost": 0,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-092-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-092-1.webp"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+         "fr": "Appolite - Mirage des profondeurs",
+         "en": "Appolite - Mirage of the depths"
+    },
+    "type": "ascension",
+    "cost": 0,
+    "Element": [
+      "Eau"
+    ]
+  },
+    "ETH-AR-091-1": {
+    "id": "ETH-AR-091-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "fr": "Discussions internes",
+          "en": "Internal discussion"
+        },
+        "type": "rêve",
+        "cost": 1,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-091-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-091-1.webp"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "fr": "Discussions internes",
+      "en": "Internal discussion"
+    },
+    "type": "rêve",
+    "cost": 1,
+    "Element": [
+      "Eau"
+    ]
+  },
+      "ETH-AR-093-1": {
+    "id": "ETH-AR-093-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "fr": "Enracinage mental",
+          "en": "Mental rooting"
+        },
+        "type": "rêve",
+        "cost": 2,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-093-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-093-1.webp"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "fr": "Enracinage mental",
+          "en": "Mental rooting"
+    },
+    "type": "rêve",
+    "cost": 2,
+    "Element": [
+      "Nature"
+    ]
+  },
+        "ETH-AR-094-1": {
+    "id": "ETH-AR-094-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "fr": "Corps conduteur",
+          "en": "Body conductor"
+        },
+        "type": "rêve",
+        "cost": 2,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-094-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-094-1.webp"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "fr": "Corps conduteur",
+          "en": "Body conductor"
+    },
+    "type": "rêve",
+    "cost": 2,
+    "Element": [
+      "Foudre"
+    ]
+  },
+ 
+    "ETH-AR-090-1": {
+    "id": "ETH-AR-090-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "fr": "Décharge avec rebond,
+          "en": "Jumpy discharge"
+        },
+        "type": "sort",
+        "cost": 1,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-090-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-090-1.webp"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "fr": "Décharge avec rebond",
+          "en": "Jumpy discharge"
+    },
+    "type": "sort",
+    "cost": 1,
+    "Element": [
+      "Foudre"
+    ]
+  },
+      "ETH-AR-049-1": {
+    "id": "ETH-AR-049-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "fr": "Hego",
+          "en": "Hego"
+        },
+        "type": "invocation",
+        "cost": 1,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-049-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-049-1.webp"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "fr": "Hego",
+          "en": "Hego"
+    },
+    "type": "invocation",
+    "cost": 1,
+    "Element": [
+      "Nature"
+    ]
+  },
+        "ETH-AR-089-1": {
+    "id": "ETH-AR-089-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "fr": "Gotomo",
+          "en": "Gotomo"
+        },
+        "type": "invocation",
+        "cost": 2,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-089-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-089-1.webp"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "fr": "Gotomo",
+          "en": "Gotomo"
+    },
+    "type": "invocation",
+    "cost": 2,
+    "Element": [
+      "Eau"
+    ]
   }
 }
