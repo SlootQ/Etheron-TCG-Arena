@@ -285,8 +285,8 @@
     "face": {
       "front": {
         "name": {
-          "fr": "Neeska - placeholder",
-          "en": "Neeska - placeholder"
+          "fr": "Neeska - Furie ardente",
+          "en": "Neeska - Burning fury"
         },
         "type": "ascension",
         "cost": 1,
@@ -298,8 +298,8 @@
       }
     },
     "name": {
-      "fr": "Neeska - placeholder",
-      "en": "Neeska - placeholder"
+      "fr": "Neeska - Furie ardente",
+      "en": "Neeska - Burning fury"
     },
     "type": "ascension",
     "cost": 1,
@@ -313,8 +313,8 @@
     "face": {
       "front": {
         "name": {
-          "fr": "Neeska - placeholder",
-          "en": "Neeska - placeholder"
+          "fr": "Neeska - Démone des flammes",
+          "en": "Neeska - Flames demon"
         },
         "type": "ascension",
         "cost": 2,
@@ -326,8 +326,8 @@
       }
     },
     "name": {
-      "fr": "Neeska - placeholder",
-      "en": "Neeska - placeholder"
+      "fr": "Neeska - Démone des flammes",
+      "en": "Neeska - Flames demon"
     },
     "type": "ascension",
     "cost": 2,
@@ -2602,6 +2602,90 @@
     "cost": 2,
     "Element": [
       "Eau"
+    ]
+  },
+          "ETH-AR-095-1": {
+    "id": "ETH-AR-095-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "fr": "Cassandre - Oracle trompeur",
+          "en": "Cassandre - Deceptive oracle"
+        },
+        "type": "champion",
+        "cost": 0,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-095-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-095-1.webp"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "fr": "Cassandre - Oracle trompeur",
+          "en": "Cassandre - Deceptive oracle"
+    },
+    "type": "champion",
+    "cost": 0,
+    "Element": [
+      "Feu"
+    ]
+  },
+          "ETH-AR-096-1": {
+    "id": "ETH-AR-096-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "fr": "Cassandre - Contrôle parfait",
+          "en": "Cassandre - Perfect control"
+        },
+        "type": "ascension",
+        "cost": 0,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-096-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-096-1.webp"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "fr": "Cassandre - Contrôle parfait",
+          "en": "Cassandre - Perfect control"
+    },
+    "type": "ascension",
+    "cost": 0,
+    "Element": [
+      "Feu"
+    ]
+  },
+          "ETH-AR-097-1": {
+    "id": "ETH-AR-097-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "fr": "Cassandre - Maître du jeu",
+          "en": "Cassandre - Game master"
+        },
+        "type": "ascension",
+        "cost": 2,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-097-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-097-1.webp"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "fr": "Cassandre - Maître du jeu",
+          "en": "Cassandre - Game master"
+    },
+    "type": "ascension",
+    "cost": 2,
+    "Element": [
+      "Feu"
     ]
   }
 }
