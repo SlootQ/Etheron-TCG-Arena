@@ -2687,5 +2687,118 @@
     "Element": [
       "Feu"
     ]
-  }
+  },
+    "ETH-AR-098-1": {
+    "id": "ETH-AR-098-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "fr": "Enfilez vos patins",
+          "en": "Put on Your Skates"
+        },
+        "type": "rêve",
+        "cost": 2,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-098-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-098-1.webp"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "fr": "Enfilez vos patins",
+      "en": "Put on Your Skates"
+    },
+    "type": "rêve",
+    "cost": 2,
+    "Element": [
+      "Eau",
+      "Eau"
+    ]
+  },
+  "ETH-AR-099-1": {
+    "id": "ETH-AR-099-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "fr": "Lunettes aquatiques",
+          "en": "Aquatic Goggles"
+        },
+        "type": "rêve",
+        "cost": 1,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-099-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-099-1.webp"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "fr": "Lunettes aquatiques",
+      "en": "Aquatic Goggles"
+    },
+    "type": "rêve",
+    "cost": 1,
+    "Element": [
+      "Eau"
+    ]
+  },
+  "ETH-AR-100-1": {
+    "id": "ETH-AR-100-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "fr": "Réduction instantanée",
+          "en": "Instant reduction"
+        },
+        "type": "sort",
+        "cost": 1,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-100-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-100-1.webp"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "fr": "Réduction instantanée",
+      "en": "Instant reduction"
+    },
+    "type": "sort",
+    "cost": 1,
+    "Element": [
+      "Eau"
+    ]
+  },
+  "ETH-AR-101-1": {
+    "id": "ETH-AR-101-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "fr": "Brûlure immédiate",
+          "en": "Forthwith Burn"
+        },
+        "type": "sort",
+        "cost": 1,
+        "image": {
+          "fr": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets/ETH-AR-101-1.webp",
+          "en": "https://jmtpscczqicugeqvticd.supabase.co/storage/v1/object/public/etheron-assets-en/ETH-RD-101-1.webp"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "fr": "Brûlure immédiate",
+      "en": "Forthwith Burn"
+    },
+    "type": "sort",
+    "cost": 1,
+    "Element": [
+      "Feu"
+    ]
+  }  
 }
